@@ -1,0 +1,6198 @@
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   
+      <Row>
+          <Code>GAN</Code>
+          <Description>Gan International Airport </Description>
+          <City>Addu Atoll</City>
+          <Country> Maldives</Country>
+      </Row>
+   
+      <Row>
+          <Code>MLE</Code>
+          <Description>Ibrahim Nasir International Airport </Description>
+          <City>Malé Atoll</City>
+          <Country> Maldives</Country>
+      </Row>
+   
+      <Row>
+          <Code>TAS</Code>
+          <Description>Tashkent International Airport</Description>
+          <City>Tashkent</City>
+          <Country>Uzbekistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>OTP</Code>
+          <Description>Henri Coandă International Airport</Description>
+          <City>Otopeni</City>
+          <Country>Romania</Country>
+      </Row>
+   
+      <Row>
+          <Code>KBL</Code>
+          <Description>Hamid Karzai International Airport  </Description>
+          <City>Kabul</City>
+          <Country>Afghanistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>KDH</Code>
+          <Description>Kandahar International Airport </Description>
+          <City>Kandahar </City>
+          <Country>Afghanistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>TIA</Code>
+          <Description>Tirana International Airport Nënë Tereza </Description>
+          <City>Tirana</City>
+          <Country>Albania</Country>
+      </Row>
+   
+      <Row>
+          <Code>AAE</Code>
+          <Description>Rabah Bitat Airport </Description>
+          <City>Annaba</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>ALG</Code>
+          <Description>Houari Boumedienne Airport </Description>
+          <City>Algiers</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>AZR</Code>
+          <Description>Touat-Cheikh Sidi Mohamed Belkebir Airport </Description>
+          <City>Adrar</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>BJA</Code>
+          <Description>Soummam Airport </Description>
+          <City>Bejaia</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>BLJ</Code>
+          <Description>Batna Airport </Description>
+          <City>Batna</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>BSK</Code>
+          <Description>Biskra Ouakda Airport </Description>
+          <City>Oumache</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>CFK</Code>
+          <Description>Chlef International Airport </Description>
+          <City>Chlef</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>CZL</Code>
+          <Description>Mohamed Boudiaf Airport </Description>
+          <City>Constantine</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>GJL</Code>
+          <Description>Jijel Ferhat Abbas Airport </Description>
+          <City>Jijel</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>HME</Code>
+          <Description>Oued Irara Airport </Description>
+          <City>Hassi Messaoud</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>ORN </Code>
+          <Description>Oran Es Sénia Airport </Description>
+          <City>Es-Sénia</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>QSF</Code>
+          <Description>Ain Arnat Airport </Description>
+          <City>Setif</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>TLM</Code>
+          <Description>Zenata Airport </Description>
+          <City>Tlemcen</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>TMR</Code>
+          <Description>Tamanrasset Airport </Description>
+          <City>Aguenar</City>
+          <Country>Algeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>LAD</Code>
+          <Description>Quatro de Fevereiro Airport </Description>
+          <City>Luanda</City>
+          <Country>Angola</Country>
+      </Row>
+   
+      <Row>
+          <Code>SDD</Code>
+          <Description>Lubango Airport </Description>
+          <City>Lubango</City>
+          <Country>Angola</Country>
+      </Row>
+   
+      <Row>
+          <Code>EVN</Code>
+          <Description>Zvartnots International Airport </Description>
+          <City>Yerevan</City>
+          <Country>Armenia</Country>
+      </Row>
+   
+      <Row>
+          <Code>LWN</Code>
+          <Description>Shirak International Airport </Description>
+          <City>Gyumri</City>
+          <Country>Armenia</Country>
+      </Row>
+   
+      <Row>
+          <Code>ADL</Code>
+          <Description>Adelaide International Airport </Description>
+          <City>Adelaide</City>
+          <Country>Australia</Country>
+      </Row>
+   
+      <Row>
+          <Code>BNE</Code>
+          <Description>Brisbane Airport </Description>
+          <City>Brisbane</City>
+          <Country>Australia</Country>
+      </Row>
+   
+      <Row>
+          <Code>CNS</Code>
+          <Description>Cairns International Airport </Description>
+          <City>Cairns</City>
+          <Country>Australia</Country>
+      </Row>
+   
+      <Row>
+          <Code>DRW</Code>
+          <Description>Darwin International Airport </Description>
+          <City>Darwin</City>
+          <Country>Australia</Country>
+      </Row>
+   
+      <Row>
+          <Code>HBA</Code>
+          <Description>Hobart International Airport </Description>
+          <City>Hobart</City>
+          <Country>Australia</Country>
+      </Row>
+   
+      <Row>
+          <Code>MEL</Code>
+          <Description>Melbourne Tullamarine International Airport </Description>
+          <City>Melbourne</City>
+          <Country>Australia</Country>
+      </Row>
+   
+      <Row>
+          <Code>OOL</Code>
+          <Description>Gold Coast Airport </Description>
+          <City>Gold Coast </City>
+          <Country>Australia</Country>
+      </Row>
+   
+      <Row>
+          <Code>PER</Code>
+          <Description>Perth International Airport </Description>
+          <City>Perth</City>
+          <Country>Australia</Country>
+      </Row>
+   
+      <Row>
+          <Code>PHE</Code>
+          <Description>Port Hedland International Airport </Description>
+          <City>Port Hedland </City>
+          <Country>Australia</Country>
+      </Row>
+   
+      <Row>
+          <Code>SYD</Code>
+          <Description>Sydney Kingsford Smith International Airport </Description>
+          <City>Sydney</City>
+          <Country>Australia</Country>
+      </Row>
+   
+      <Row>
+          <Code>TSV</Code>
+          <Description>Townsville Airport </Description>
+          <City>Townsville</City>
+          <Country>Australia</Country>
+      </Row>
+   
+      <Row>
+          <Code>GRZ</Code>
+          <Description>Graz Airport </Description>
+          <City>Graz</City>
+          <Country>Austria</Country>
+      </Row>
+   
+      <Row>
+          <Code>INN</Code>
+          <Description>Innsbruck Airport </Description>
+          <City>Tyrol</City>
+          <Country>Austria</Country>
+      </Row>
+   
+      <Row>
+          <Code>KLU</Code>
+          <Description>Klagenfurt Airport </Description>
+          <City>Klagenfurt</City>
+          <Country>Austria</Country>
+      </Row>
+   
+      <Row>
+          <Code>LNZ</Code>
+          <Description>Linz Airport </Description>
+          <City>Linz</City>
+          <Country>Austria</Country>
+      </Row>
+   
+      <Row>
+          <Code>SZG</Code>
+          <Description>Salzburg Airport </Description>
+          <City>Salzburg</City>
+          <Country>Austria</Country>
+      </Row>
+   
+      <Row>
+          <Code>VIE</Code>
+          <Description>Vienna International Airport </Description>
+          <City>Vienna</City>
+          <Country>Austria</Country>
+      </Row>
+   
+      <Row>
+          <Code>GYD</Code>
+          <Description>Heydar Aliyev International Airport </Description>
+          <City>Baku</City>
+          <Country>Azerbaijan</Country>
+      </Row>
+   
+      <Row>
+          <Code>KVD</Code>
+          <Description>Ganja International Airport </Description>
+          <City>Ganja</City>
+          <Country>Azerbaijan</Country>
+      </Row>
+   
+      <Row>
+          <Code>NAJ</Code>
+          <Description>Nakhchivan International Airport </Description>
+          <City>Nakhchivan</City>
+          <Country>Azerbaijan</Country>
+      </Row>
+   
+      <Row>
+          <Code>BAH</Code>
+          <Description>Bahrain International Airport </Description>
+          <City>Manama</City>
+          <Country>Bahrain</Country>
+      </Row>
+   
+      <Row>
+          <Code>CGP</Code>
+          <Description>Shah Amanat International Airport </Description>
+          <City>Chittagong</City>
+          <Country>Bangladesh</Country>
+      </Row>
+   
+      <Row>
+          <Code>DAC</Code>
+          <Description>Shahjalal International Airport </Description>
+          <City>Dhaka</City>
+          <Country>Bangladesh</Country>
+      </Row>
+   
+      <Row>
+          <Code>ZYL</Code>
+          <Description>Osmani International Airport </Description>
+          <City>Sylhet</City>
+          <Country>Bangladesh</Country>
+      </Row>
+   
+      <Row>
+          <Code>GME</Code>
+          <Description>Gomel Airport </Description>
+          <City>Gomel raion</City>
+          <Country>Belarus</Country>
+      </Row>
+   
+      <Row>
+          <Code>GNA</Code>
+          <Description>Hrodna Airport </Description>
+          <City>Grodno</City>
+          <Country>Belarus</Country>
+      </Row>
+   
+      <Row>
+          <Code>MSQ</Code>
+          <Description>Minsk National Airport </Description>
+          <City>Kastrychnitski</City>
+          <Country>Belarus</Country>
+      </Row>
+   
+      <Row>
+          <Code>ANR</Code>
+          <Description>Antwerp International Airport </Description>
+          <City>Antwerp</City>
+          <Country>Belgium</Country>
+      </Row>
+   
+      <Row>
+          <Code>BRU</Code>
+          <Description>Brussels International Airport </Description>
+          <City>Brussels</City>
+          <Country>Belgium</Country>
+      </Row>
+   
+      <Row>
+          <Code>CRL</Code>
+          <Description>Brussels South Charleroi Airport </Description>
+          <City>Charleroi</City>
+          <Country>Belgium</Country>
+      </Row>
+   
+      <Row>
+          <Code>LGG</Code>
+          <Description>Liège Airport </Description>
+          <City>Liège</City>
+          <Country>Belgium</Country>
+      </Row>
+   
+      <Row>
+          <Code>OST</Code>
+          <Description>Ostend-Bruges International Airport </Description>
+          <City>Ostend</City>
+          <Country>Belgium</Country>
+      </Row>
+   
+      <Row>
+          <Code>COO</Code>
+          <Description>Cadjehoun Airport </Description>
+          <City>Cotonou</City>
+          <Country>Benin</Country>
+      </Row>
+   
+      <Row>
+          <Code>PBH</Code>
+          <Description>Paro Airport </Description>
+          <City>Paro</City>
+          <Country>Bhutan</Country>
+      </Row>
+   
+      <Row>
+          <Code>BNX</Code>
+          <Description>Banja Luka International Airport </Description>
+          <City>Mahovljani</City>
+          <Country>Bosnia and Herzegovina </Country>
+      </Row>
+   
+      <Row>
+          <Code>OMO</Code>
+          <Description>Mostar International Airport </Description>
+          <City>Ortiješ</City>
+          <Country>Bosnia and Herzegovina </Country>
+      </Row>
+   
+      <Row>
+          <Code>SJJ</Code>
+          <Description>Sarajevo International Airport </Description>
+          <City>Butmir</City>
+          <Country>Bosnia and Herzegovina </Country>
+      </Row>
+   
+      <Row>
+          <Code>TZL</Code>
+          <Description>Tuzla International Airport </Description>
+          <City>Tuzla</City>
+          <Country>Bosnia and Herzegovina </Country>
+      </Row>
+   
+      <Row>
+          <Code>BBK</Code>
+          <Description>Kasane Airport </Description>
+          <City>Kasane</City>
+          <Country>Botswana</Country>
+      </Row>
+   
+      <Row>
+          <Code>FRW</Code>
+          <Description>Francistown International Airport </Description>
+          <City>Francistown</City>
+          <Country>Botswana</Country>
+      </Row>
+   
+      <Row>
+          <Code>GBE</Code>
+          <Description>Sir Seretse Khama International Airport </Description>
+          <City>Gaborone</City>
+          <Country>Botswana</Country>
+      </Row>
+   
+      <Row>
+          <Code>MUB</Code>
+          <Description>Maun Airport </Description>
+          <City>Maun</City>
+          <Country>Botswana</Country>
+      </Row>
+   
+      <Row>
+          <Code>BWN</Code>
+          <Description>Brunei International Airport </Description>
+          <City>Bandar Seri Begawan </City>
+          <Country>Brunei</Country>
+      </Row>
+   
+      <Row>
+          <Code>BOJ</Code>
+          <Description>Burgas Airport </Description>
+          <City>Burgas</City>
+          <Country>Bulgaria</Country>
+      </Row>
+   
+      <Row>
+          <Code>PDV</Code>
+          <Description>Plovdiv Airport </Description>
+          <City>Plovdiv</City>
+          <Country>Bulgaria</Country>
+      </Row>
+   
+      <Row>
+          <Code>SOF</Code>
+          <Description>Sofia International Airport </Description>
+          <City>Sofia</City>
+          <Country>Bulgaria</Country>
+      </Row>
+   
+      <Row>
+          <Code>VAR</Code>
+          <Description>Varna Airport </Description>
+          <City>Varna</City>
+          <Country>Bulgaria</Country>
+      </Row>
+   
+      <Row>
+          <Code>BOY</Code>
+          <Description>Bobo Dioulasso Airport </Description>
+          <City>Bobo Dioulasso</City>
+          <Country>Burkina Faso </Country>
+      </Row>
+   
+      <Row>
+          <Code>OUA</Code>
+          <Description>Ouagadougou Airport </Description>
+          <City>Ouagadougou</City>
+          <Country>Burkina Faso </Country>
+      </Row>
+   
+      <Row>
+          <Code>BJM</Code>
+          <Description>Bujumbura International Airport </Description>
+          <City>Bujumbura</City>
+          <Country>Burundi</Country>
+      </Row>
+   
+      <Row>
+          <Code>PNH</Code>
+          <Description>Phnom Penh International Airport </Description>
+          <City>Phnom Penh</City>
+          <Country>Cambodia</Country>
+      </Row>
+   
+      <Row>
+          <Code>REP</Code>
+          <Description>Siem Reap International Airport </Description>
+          <City>Siem Reap</City>
+          <Country>Cambodia</Country>
+      </Row>
+   
+      <Row>
+          <Code>DLA</Code>
+          <Description>Douala International Airport </Description>
+          <City>Douala</City>
+          <Country>Cameroon</Country>
+      </Row>
+   
+      <Row>
+          <Code>NSI </Code>
+          <Description>Yaoundé Nsimalen International Airport </Description>
+          <City>Yaoundé</City>
+          <Country>Cameroon</Country>
+      </Row>
+   
+      <Row>
+          <Code>YEG</Code>
+          <Description>Edmonton International Airport Edmonton </Description>
+          <City>Alberta</City>
+          <Country>Canada</Country>
+      </Row>
+   
+      <Row>
+          <Code>YHZ</Code>
+          <Description>Halifax International Airport Halifax </Description>
+          <City>Nova Scotia</City>
+          <Country>Canada</Country>
+      </Row>
+   
+      <Row>
+          <Code>YOW</Code>
+          <Description>Ottawa International Airport Ottawa </Description>
+          <City>Ontario</City>
+          <Country>Canada</Country>
+      </Row>
+   
+      <Row>
+          <Code>YUL</Code>
+          <Description>Montréal-Pierre Elliot Trudeau International Airport Montréal </Description>
+          <City>Québec</City>
+          <Country>Canada</Country>
+      </Row>
+   
+      <Row>
+          <Code>YVR</Code>
+          <Description>Vancouver International Airport Vancouver </Description>
+          <City>British Columbia</City>
+          <Country>Canada</Country>
+      </Row>
+   
+      <Row>
+          <Code>YWG</Code>
+          <Description>Winnipeg International Airport Winnipeg </Description>
+          <City>Manitoba</City>
+          <Country>Canada</Country>
+      </Row>
+   
+      <Row>
+          <Code>YYC</Code>
+          <Description>Calgary International Airport Calgary </Description>
+          <City>Alberta</City>
+          <Country>Canada</Country>
+      </Row>
+   
+      <Row>
+          <Code>YYZ</Code>
+          <Description>Toronto Lester B. Pearson International Airport </Description>
+          <City>Toronto</City>
+          <Country>Canada</Country>
+      </Row>
+   
+      <Row>
+          <Code>BVC</Code>
+          <Description>Aristides Pereira International Airport </Description>
+          <City>Boa Vista</City>
+          <Country>Cape Verde</Country>
+      </Row>
+   
+      <Row>
+          <Code>RAI</Code>
+          <Description>Nelson Mandela International Airport </Description>
+          <City>Praia</City>
+          <Country>Cape Verde</Country>
+      </Row>
+   
+      <Row>
+          <Code>SID</Code>
+          <Description>Amílcar Cabral International Airport </Description>
+          <City>Sal</City>
+          <Country>Cape Verde</Country>
+      </Row>
+   
+      <Row>
+          <Code>VXE</Code>
+          <Description>Cesária Évora Airport </Description>
+          <City>São Vicente</City>
+          <Country>Cape Verde</Country>
+      </Row>
+   
+      <Row>
+          <Code>BGF</Code>
+          <Description>M'Poko International Airport </Description>
+          <City>Bangui</City>
+          <Country>Central African Republic</Country>
+      </Row>
+   
+      <Row>
+          <Code>NDJ</Code>
+          <Description>N'Djamena International Airport </Description>
+          <City>N'Djamena</City>
+          <Country>Chad</Country>
+      </Row>
+   
+      <Row>
+          <Code>CAN</Code>
+          <Description>Guangzhou Baiyun International Airport </Description>
+          <City>Guangzhou</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>CGO</Code>
+          <Description>Zhengzhou Xinzheng International Airport </Description>
+          <City>Zhengzhou</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>CGQ</Code>
+          <Description>Changchun Longjia International Airport  </Description>
+          <City>Jilin</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>CKG</Code>
+          <Description>Chongqing Jiangbei International Airport </Description>
+          <City>Chongqing</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>CSX</Code>
+          <Description>Changsha Huanghua International Airport </Description>
+          <City>Changsha</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>CTU</Code>
+          <Description>Chengdu Shuangliu International Airport </Description>
+          <City>Chengdu</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>DLC</Code>
+          <Description>Dalian Zhoushuizi International Airport </Description>
+          <City>Dalian</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>FOC</Code>
+          <Description>Fuzhou Changle International Airport </Description>
+          <City>Fuzhou</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>HAK</Code>
+          <Description>Meilan International Airport </Description>
+          <City>Haikou</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>HFE</Code>
+          <Description>Hefei Xinqiao International Airport </Description>
+          <City>Hefei</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>HGH</Code>
+          <Description>Hangzhou Xiaoshan International Airport </Description>
+          <City>Hangzhou</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>HRB</Code>
+          <Description>Harbin Taiping International Airport </Description>
+          <City>Harbin</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>KHH</Code>
+          <Description>Kaohsiung International Airport </Description>
+          <City>Taiwan</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>KMG</Code>
+          <Description>Kunming Changshui International Airport </Description>
+          <City>Kunming</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>KWE</Code>
+          <Description>Guiyang Longdongbao International Airport </Description>
+          <City>Guiyang</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>KWL</Code>
+          <Description>Guilin Liangjiang International Airport </Description>
+          <City>Guilin</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>LXA</Code>
+          <Description>Lhasa Gonggar Airport  </Description>
+          <City>Lhasa</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>MDG</Code>
+          <Description>Mudanjiang Hailang Airport </Description>
+          <City>Mudanjiang</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>MFM</Code>
+          <Description>Macau International Airport </Description>
+          <City>Macau</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>NGB</Code>
+          <Description>Ningbo Lishe International Airport </Description>
+          <City>Ningbo</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>NKG</Code>
+          <Description>Nanjing Lukou International Airport </Description>
+          <City>Nanjing</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>NNG</Code>
+          <Description>Nanning Wuxu International Airport </Description>
+          <City>Nanning</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>PEK</Code>
+          <Description>Beijing Capital International Airport </Description>
+          <City>Beijing</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>PVG</Code>
+          <Description>Shanghai Pudong International Airport </Description>
+          <City>Shanghai</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>RMQ</Code>
+          <Description>Taichung Airport </Description>
+          <City>Taiwan</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>SHA</Code>
+          <Description>Shanghai Hongqiao International Airport </Description>
+          <City>Shanghai</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>SHE</Code>
+          <Description>Shenyang Taoxian International Airport </Description>
+          <City>Shenyang</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>SWA</Code>
+          <Description>Jieyang Chaoshan International Airport </Description>
+          <City>Jieyang</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>SYX</Code>
+          <Description>Sanya Phoenix International Airport </Description>
+          <City>Sanya</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>SZX</Code>
+          <Description>Shenzhen Baoan International Airport </Description>
+          <City>Shenzhen</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>TAO</Code>
+          <Description>Qingdao Liuting International Airport </Description>
+          <City>Qingdao</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>TNA</Code>
+          <Description>Jinan Yaoqiang International Airport </Description>
+          <City>Jinan</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>TSN</Code>
+          <Description>Tianjin Binhai International Airport </Description>
+          <City>Tianjin</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>TTT</Code>
+          <Description>Taitung Airport </Description>
+          <City>Taiwan</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>URC</Code>
+          <Description>Ürümqi Diwopu International Airport </Description>
+          <City>Ürümqi</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>WEH</Code>
+          <Description>Weihai Dashuibo Airport </Description>
+          <City>Weihai</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>WUH</Code>
+          <Description>Wuhan Tianhe International Airport </Description>
+          <City>Wuhan</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>XIY</Code>
+          <Description>Xi'an Xianyang International Airport </Description>
+          <City>Xi'an</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>XMN</Code>
+          <Description>Xiamen Gaoqi International Airport </Description>
+          <City>Xiamen</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>YNJ</Code>
+          <Description>Yanji Chaoyangchuan Airport </Description>
+          <City>Yanji</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>YNT</Code>
+          <Description>Yantai Laishan International Airport </Description>
+          <City>Yantai</City>
+          <Country>China</Country>
+      </Row>
+   
+      <Row>
+          <Code>HAH</Code>
+          <Description>Prince Said Ibrahim International Airport </Description>
+          <City>Hahaya</City>
+          <Country>Comoros</Country>
+      </Row>
+   
+      <Row>
+          <Code>ABJ</Code>
+          <Description>Port Bouet Airport </Description>
+          <City>Abidjan</City>
+          <Country>Côte d&#39;Ivoire</Country>
+      </Row>
+   
+      <Row>
+          <Code>DBV</Code>
+          <Description>Dubrovnik Airport </Description>
+          <City>Dubrovnik</City>
+          <Country>Croatia</Country>
+      </Row>
+   
+      <Row>
+          <Code>OSI</Code>
+          <Description>Osijek Airport </Description>
+          <City>Osijek</City>
+          <Country>Croatia</Country>
+      </Row>
+   
+      <Row>
+          <Code>PUY</Code>
+          <Description>Pula Airport </Description>
+          <City>Pula</City>
+          <Country>Croatia</Country>
+      </Row>
+   
+      <Row>
+          <Code>RJK</Code>
+          <Description>Rijeka Airport </Description>
+          <City>Rijeka</City>
+          <Country>Croatia</Country>
+      </Row>
+   
+      <Row>
+          <Code>SPU</Code>
+          <Description>Split Airport </Description>
+          <City>Split</City>
+          <Country>Croatia</Country>
+      </Row>
+   
+      <Row>
+          <Code>ZAD</Code>
+          <Description>Zadar Airport </Description>
+          <City>Zadar</City>
+          <Country>Croatia</Country>
+      </Row>
+   
+      <Row>
+          <Code>ZAG</Code>
+          <Description>Zagreb Airport </Description>
+          <City>Pleso </City>
+          <Country>Croatia</Country>
+      </Row>
+   
+      <Row>
+          <Code>ECN</Code>
+          <Description>Ercan International Airport </Description>
+          <City>Ercan</City>
+          <Country>Cyprus</Country>
+      </Row>
+   
+      <Row>
+          <Code>LCA</Code>
+          <Description>Larnaca International Airport </Description>
+          <City>Larnaca</City>
+          <Country>Cyprus</Country>
+      </Row>
+   
+      <Row>
+          <Code>PFO</Code>
+          <Description>Paphos International Airport </Description>
+          <City>Paphos</City>
+          <Country>Cyprus</Country>
+      </Row>
+   
+      <Row>
+          <Code>BRQ</Code>
+          <Description>Tuřany Airport </Description>
+          <City>Brno</City>
+          <Country>Czech Republic</Country>
+      </Row>
+   
+      <Row>
+          <Code>KLV</Code>
+          <Description>Karlovy Vary Airport </Description>
+          <City>Karlovy Vary</City>
+          <Country>Czech Republic</Country>
+      </Row>
+   
+      <Row>
+          <Code>OSR</Code>
+          <Description>Leoš Janáček Ostrava Airport </Description>
+          <City>Ostrava</City>
+          <Country>Czech Republic</Country>
+      </Row>
+   
+      <Row>
+          <Code>PED</Code>
+          <Description>Pardubice Airport </Description>
+          <City>Pardubice</City>
+          <Country>Czech Republic</Country>
+      </Row>
+   
+      <Row>
+          <Code>PRG</Code>
+          <Description>Prague International Airport </Description>
+          <City>Prague</City>
+          <Country>Czech Republic</Country>
+      </Row>
+   
+      <Row>
+          <Code>FBM</Code>
+          <Description>Lubumbashi International Airport </Description>
+          <City>Lubumbashi</City>
+          <Country>Democratic Republic of the Congo</Country>
+      </Row>
+   
+      <Row>
+          <Code>FIH</Code>
+          <Description>N'djili Airport </Description>
+          <City>Kinshasa</City>
+          <Country>Democratic Republic of the Congo</Country>
+      </Row>
+   
+      <Row>
+          <Code>FKI</Code>
+          <Description>Bangoka International Airport </Description>
+          <City>Kisangani</City>
+          <Country>Democratic Republic of the Congo</Country>
+      </Row>
+   
+      <Row>
+          <Code>GOM</Code>
+          <Description>Goma International Airport </Description>
+          <City>Goma</City>
+          <Country>Democratic Republic of the Congo</Country>
+      </Row>
+   
+      <Row>
+          <Code>AAL</Code>
+          <Description>Aalborg Airport </Description>
+          <City>Aalborg</City>
+          <Country>Denmark</Country>
+      </Row>
+   
+      <Row>
+          <Code>AAR</Code>
+          <Description>Aarhus Airport </Description>
+          <City>Aarhus</City>
+          <Country>Denmark</Country>
+      </Row>
+   
+      <Row>
+          <Code>BLL</Code>
+          <Description>Billund Airport </Description>
+          <City>Billund</City>
+          <Country>Denmark</Country>
+      </Row>
+   
+      <Row>
+          <Code>CPH</Code>
+          <Description>Copenhagen Kastrup International Airport </Description>
+          <City>Copenhagen</City>
+          <Country>Denmark</Country>
+      </Row>
+   
+      <Row>
+          <Code>JIB</Code>
+          <Description>Ambouli International Airport </Description>
+          <City>Djibouti City</City>
+          <Country>Djibouti</Country>
+      </Row>
+   
+      <Row>
+          <Code>ALY</Code>
+          <Description>Alexandria International Airport </Description>
+          <City>Alexandria</City>
+          <Country>Egypt</Country>
+      </Row>
+   
+      <Row>
+          <Code>ASW</Code>
+          <Description>Aswan International Airport </Description>
+          <City>Aswan</City>
+          <Country>Egypt</Country>
+      </Row>
+   
+      <Row>
+          <Code>CAI</Code>
+          <Description>Cairo International Airport </Description>
+          <City>Cairo</City>
+          <Country>Egypt</Country>
+      </Row>
+   
+      <Row>
+          <Code>HRG</Code>
+          <Description>Hurghada International Airport </Description>
+          <City>Hurghada</City>
+          <Country>Egypt</Country>
+      </Row>
+   
+      <Row>
+          <Code>LXR</Code>
+          <Description>Luxor International Airport </Description>
+          <City>Luxor</City>
+          <Country>Egypt</Country>
+      </Row>
+   
+      <Row>
+          <Code>MUH</Code>
+          <Description>Mersa Matruh Airport </Description>
+          <City>Mersa Matruh</City>
+          <Country>Egypt</Country>
+      </Row>
+   
+      <Row>
+          <Code>RMF</Code>
+          <Description>Marsa Alam International Airport </Description>
+          <City>Marsa Alam</City>
+          <Country>Egypt</Country>
+      </Row>
+   
+      <Row>
+          <Code>SSH</Code>
+          <Description>Sharm el-Sheikh International Airport </Description>
+          <City>Sharm el-Sheikh</City>
+          <Country>Egypt</Country>
+      </Row>
+   
+      <Row>
+          <Code>TCP</Code>
+          <Description>Taba International Airport </Description>
+          <City>Taba</City>
+          <Country>Egypt</Country>
+      </Row>
+   
+      <Row>
+          <Code>BHX</Code>
+          <Description>Birmingham International Airport </Description>
+          <City>Birmingham</City>
+          <Country>England</Country>
+      </Row>
+   
+      <Row>
+          <Code>LGW</Code>
+          <Description>London Gatwick International Airport </Description>
+          <City>London</City>
+          <Country>England</Country>
+      </Row>
+   
+      <Row>
+          <Code>LHR</Code>
+          <Description>London HeathAirportList International Airport </Description>
+          <City>London</City>
+          <Country>England</Country>
+      </Row>
+   
+      <Row>
+          <Code>MAN</Code>
+          <Description>Manchester International Airport </Description>
+          <City>Manchester</City>
+          <Country>England</Country>
+      </Row>
+   
+      <Row>
+          <Code>STN</Code>
+          <Description>London Stansted Airport </Description>
+          <City>London</City>
+          <Country>England</Country>
+      </Row>
+   
+      <Row>
+          <Code>SSG</Code>
+          <Description>Malabo International Airport </Description>
+          <City>Malabo</City>
+          <Country>Equatorial Guinea</Country>
+      </Row>
+   
+      <Row>
+          <Code>ASA</Code>
+          <Description>Assab International Airport </Description>
+          <City>Assab</City>
+          <Country>Eritrea</Country>
+      </Row>
+   
+      <Row>
+          <Code>ASM</Code>
+          <Description>Asmara International Airport </Description>
+          <City>Asmara</City>
+          <Country>Eritrea</Country>
+      </Row>
+   
+      <Row>
+          <Code>MSW</Code>
+          <Description>Massawa International Airport </Description>
+          <City>Massawa</City>
+          <Country>Eritrea</Country>
+      </Row>
+   
+      <Row>
+          <Code>TLL</Code>
+          <Description>Tallinn Airport </Description>
+          <City>Tallinn</City>
+          <Country>Estonia</Country>
+      </Row>
+   
+      <Row>
+          <Code>ADD</Code>
+          <Description>Addis Ababa Bole International Airport </Description>
+          <City>Addis Ababa</City>
+          <Country>Ethiopia</Country>
+      </Row>
+   
+      <Row>
+          <Code>DIR</Code>
+          <Description>Aba Tenna Dejazmach Yilma International Airport </Description>
+          <City>Dire Dawa</City>
+          <Country>Ethiopia</Country>
+      </Row>
+   
+      <Row>
+          <Code>HEL</Code>
+          <Description>Helsinki Vantaa International Airport </Description>
+          <City>Helsinki</City>
+          <Country>Finland</Country>
+      </Row>
+   
+      <Row>
+          <Code>KAO</Code>
+          <Description>Kuusamo Airport </Description>
+          <City>Kuusamo</City>
+          <Country>Finland</Country>
+      </Row>
+   
+      <Row>
+          <Code>KTT</Code>
+          <Description>Kittilä Airport </Description>
+          <City>Kittila</City>
+          <Country>Finland</Country>
+      </Row>
+   
+      <Row>
+          <Code>KUO</Code>
+          <Description>Kuopio Airport </Description>
+          <City>Kuopio</City>
+          <Country>Finland</Country>
+      </Row>
+   
+      <Row>
+          <Code>LPP</Code>
+          <Description>Lappeenranta Airport </Description>
+          <City>Lappeenranta</City>
+          <Country>Finland</Country>
+      </Row>
+   
+      <Row>
+          <Code>MHQ</Code>
+          <Description>Mariehamn Airport </Description>
+          <City>Åland</City>
+          <Country>Finland</Country>
+      </Row>
+   
+      <Row>
+          <Code>OUL</Code>
+          <Description>Oulu Airport </Description>
+          <City>Oulu</City>
+          <Country>Finland</Country>
+      </Row>
+   
+      <Row>
+          <Code>RVN</Code>
+          <Description>Rovaniemi Airport </Description>
+          <City>Rovaniemi</City>
+          <Country>Finland</Country>
+      </Row>
+   
+      <Row>
+          <Code>TKU</Code>
+          <Description>Turku Airport </Description>
+          <City>Turku</City>
+          <Country>Finland</Country>
+      </Row>
+   
+      <Row>
+          <Code>TMP</Code>
+          <Description>Tampere-Pirkkala Airport </Description>
+          <City>Tampere</City>
+          <Country>Finland</Country>
+      </Row>
+   
+      <Row>
+          <Code>VAA</Code>
+          <Description>Vaasa Airport </Description>
+          <City>Vaasa</City>
+          <Country>Finland</Country>
+      </Row>
+   
+      <Row>
+          <Code>AJA</Code>
+          <Description>Campo dell'Oro Airport </Description>
+          <City>Ajaccio</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>BES</Code>
+          <Description>Brest  Brest Bretagne Airport </Description>
+          <City>Brest</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>BIA</Code>
+          <Description>Poretta Airport </Description>
+          <City>Bastia</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>BIQ</Code>
+          <Description>Biarritz Airport </Description>
+          <City>Biarritz</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>BOD</Code>
+          <Description>Mérignac Airport </Description>
+          <City>Bordeaux</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>MLH</Code>
+          <Description>Basel Mulhouse Freiburg Airport </Description>
+          <City>Mulhouse Basel</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>BVA</Code>
+          <Description>Beauvais-Tillé Airport </Description>
+          <City>Paris</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>BZR</Code>
+          <Description>Béziers Cap d'Agde Airport </Description>
+          <City>Beziers</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>CCF</Code>
+          <Description>Carcassonne  Salvaza Airport </Description>
+          <City>Carcassonne</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>CDG</Code>
+          <Description>Paris Charles de Gaulle International Airport </Description>
+          <City>Paris</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>CMF</Code>
+          <Description>Savoie Airport </Description>
+          <City>Chambery</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>DNR</Code>
+          <Description>Pleurtuit Airport </Description>
+          <City>Dinard</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>EBU</Code>
+          <Description>Bouthéon Airport </Description>
+          <City>Saint-Étienne</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>EGC</Code>
+          <Description>Bergerac Roumanière Airport </Description>
+          <City>Bergerac</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>FNI</Code>
+          <Description>Nîmes-Alès-Camargue-Cévennes Airport </Description>
+          <City>Garons </City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>FSC</Code>
+          <Description>Figari Sud-Corse Airport </Description>
+          <City>Figari</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>GNB</Code>
+          <Description>Grenoble-Isère Airport </Description>
+          <City>Grenoble </City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>LIG</Code>
+          <Description>Limoges – Bellegarde Airport </Description>
+          <City>Limoges</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>LIL</Code>
+          <Description>Lille Lesquin Airport </Description>
+          <City>Lesquin</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>LRH</Code>
+          <Description>Île de Ré Airport </Description>
+          <City>La Rochelle</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>LYS</Code>
+          <Description>Lyon – Saint-Exupéry Airport </Description>
+          <City>Lyon</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>MPL</Code>
+          <Description>Montpellier–Méditerranée Airport </Description>
+          <City>Montpellier</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>MRS</Code>
+          <Description>Provence Airport </Description>
+          <City>Marseille</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>NCE</Code>
+          <Description>Côte d'Azur Airport </Description>
+          <City>Nice</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>NTE</Code>
+          <Description>Nantes Atlantique Airport </Description>
+          <City>Nantes</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>ORY</Code>
+          <Description>Paris Orly Airport </Description>
+          <City>Paris</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>PGF</Code>
+          <Description>Llabanère Airport </Description>
+          <City>Perpignan</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>PIS</Code>
+          <Description>Poitiers  Biard Airport </Description>
+          <City>Biard</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>PUF</Code>
+          <Description>Uzein Airport </Description>
+          <City>Pau</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>RDZ</Code>
+          <Description>Rodez – Marcillac Airport </Description>
+          <City>Rodez</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>SXB</Code>
+          <Description>Strasbourg Airport </Description>
+          <City>Strasbourg</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>TLN</Code>
+          <Description>Toulon – Hyères Le Palyvestre Airport </Description>
+          <City>Toulon</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>TLS</Code>
+          <Description>Toulouse – Blagnac Airport </Description>
+          <City>Toulouse</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>TUF</Code>
+          <Description>Tours Loire Valley Airport </Description>
+          <City>Tours</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>XCR</Code>
+          <Description>Châlons-en-Champagne – Châlons Vatry Airport </Description>
+          <City>Châlons-en-Champagne</City>
+          <Country>France</Country>
+      </Row>
+   
+      <Row>
+          <Code>LBV</Code>
+          <Description>Leon M'ba International Airport </Description>
+          <City>Libreville</City>
+          <Country>Gabon</Country>
+      </Row>
+   
+      <Row>
+          <Code>BJL</Code>
+          <Description>Banjul International Airport </Description>
+          <City>Banjul</City>
+          <Country>Gambia</Country>
+      </Row>
+   
+      <Row>
+          <Code>BUS</Code>
+          <Description>Batumi International Airport  </Description>
+          <City>Batumi</City>
+          <Country>Georgia</Country>
+      </Row>
+   
+      <Row>
+          <Code>TBS</Code>
+          <Description>Tbilisi International Airport  </Description>
+          <City>Tbilisi</City>
+          <Country>Georgia</Country>
+      </Row>
+   
+      <Row>
+          <Code>BRE</Code>
+          <Description>Bremen Airport </Description>
+          <City>Bremen</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>CGN</Code>
+          <Description>Bonn Konrad Adenauer International Cologne </Description>
+          <City>Cologne</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>DTM</Code>
+          <Description>Dortmund Airport </Description>
+          <City>Rhine-Ruhr</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>DUS</Code>
+          <Description>Flughafen Dusseldorf International Airport </Description>
+          <City>Dusseldorf</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>FDH</Code>
+          <Description>Friedrichshafen Airport </Description>
+          <City>Friedrichshafen</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>FKB</Code>
+          <Description>Baden Airpark </Description>
+          <City>Rheinmünster</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>FMM</Code>
+          <Description>Memmingen Airport </Description>
+          <City>Memmingen</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>FRA</Code>
+          <Description>Frankfurt Main International Airport </Description>
+          <City>Frankfurt</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>HAJ</Code>
+          <Description>Hannover Airport </Description>
+          <City>Hannover</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>HAM</Code>
+          <Description>Hamburg International Airport </Description>
+          <City>Hamburg</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>HHN</Code>
+          <Description>Frankfurt–Hahn Airport </Description>
+          <City>Kirchberg</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>LBC</Code>
+          <Description>Lübeck Airport </Description>
+          <City>Lübeck</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>LEJ</Code>
+          <Description>Leipzig Halle Airport </Description>
+          <City>Schkeuditz</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>MUC</Code>
+          <Description>Munich International Airport </Description>
+          <City>Munich</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>NRN</Code>
+          <Description>Weeze Airport </Description>
+          <City>Lower Rhine (Niederrhein)</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>NUE</Code>
+          <Description>Nuremberg Airport </Description>
+          <City>Nuremberg</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>STR</Code>
+          <Description>Stuttgart Airport </Description>
+          <City>Stuttgart</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>SXF</Code>
+          <Description>Berlin Schönefeld Airport </Description>
+          <City>Berlin</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>TXL</Code>
+          <Description>Berlin Tegel Airport </Description>
+          <City>Berlin</City>
+          <Country>Germany</Country>
+      </Row>
+   
+      <Row>
+          <Code>ACC</Code>
+          <Description>Kotoka International Airport </Description>
+          <City>Accra</City>
+          <Country>Ghana</Country>
+      </Row>
+   
+      <Row>
+          <Code>KMS</Code>
+          <Description>Kumasi Airport </Description>
+          <City>Kumasi</City>
+          <Country>Ghana</Country>
+      </Row>
+   
+      <Row>
+          <Code>GIB</Code>
+          <Description>Gibraltar International Airport </Description>
+          <City>Gibraltar</City>
+          <Country>Gibraltar</Country>
+      </Row>
+   
+      <Row>
+          <Code>AOK</Code>
+          <Description>Karpathos Island National Airport </Description>
+          <City>Karpathos Island</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>ATH</Code>
+          <Description>Athens International Airport </Description>
+          <City>Athens</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>CFU</Code>
+          <Description>Corfu International Airport </Description>
+          <City>Garitsa</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>CHQ</Code>
+          <Description>Chania International Airport </Description>
+          <City>Chania</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>EFL</Code>
+          <Description>Cephalonia International Airport </Description>
+          <City>Argostoli</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>HER</Code>
+          <Description>Heraklion International Airport </Description>
+          <City>Heraklion</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>JKH</Code>
+          <Description>Chios Island National Airport </Description>
+          <City>Chios</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>JMK</Code>
+          <Description>Mykonos Island National Airport </Description>
+          <City>Mykonos Island</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>JSI</Code>
+          <Description>Skiathos Island National Airport </Description>
+          <City>Skiathos</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>JTR</Code>
+          <Description>Santorini (Thira National Airport )</Description>
+          <City>Kamari</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>KGS</Code>
+          <Description>Kos Island International Airport </Description>
+          <City>Andimachia</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>KLX</Code>
+          <Description>Kalamata International Airport </Description>
+          <City>Kalamata</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>KVA</Code>
+          <Description>Kavala International Airport </Description>
+          <City>Chrysoupoli</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>MJT</Code>
+          <Description>Mytilene International Airport </Description>
+          <City>Mytilene</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>PVK</Code>
+          <Description>Aktion National Airport </Description>
+          <City>Preveza / Lefkada</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>RHO</Code>
+          <Description>Rhodes International Airport </Description>
+          <City>Paradisi</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>SKG</Code>
+          <Description>Thessaloniki International Airport </Description>
+          <City>Mikra</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>SKU</Code>
+          <Description>Skyros Island National Airport </Description>
+          <City>Skyros</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>SMI</Code>
+          <Description>Samos International Airport </Description>
+          <City>Samos Island</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>VOL</Code>
+          <Description>Nea Anchialos National Airport </Description>
+          <City>Nea Anchialos</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>ZTH</Code>
+          <Description>Zakynthos International Airport </Description>
+          <City>Zakynthos</City>
+          <Country>Greece</Country>
+      </Row>
+   
+      <Row>
+          <Code>GCI</Code>
+          <Description>Guernsey Airport </Description>
+          <City>Forest</City>
+          <Country>Guernsey </Country>
+      </Row>
+   
+      <Row>
+          <Code>CKY</Code>
+          <Description>Conakry International Airport </Description>
+          <City>Conakry</City>
+          <Country>Guinea</Country>
+      </Row>
+   
+      <Row>
+          <Code>HKG</Code>
+          <Description>Hong Kong Chek Lap Kok International Airport </Description>
+          <City>Hong Kong</City>
+          <Country>Hong Kong</Country>
+      </Row>
+   
+      <Row>
+          <Code>BUD</Code>
+          <Description>Budapest Ferihegy International Airport </Description>
+          <City>Budapest</City>
+          <Country>Hungary</Country>
+      </Row>
+   
+      <Row>
+          <Code>DEB</Code>
+          <Description>Debrecen International Airport </Description>
+          <City>Debrecen</City>
+          <Country>Hungary </Country>
+      </Row>
+   
+      <Row>
+          <Code>SOB</Code>
+          <Description>Hévíz Balaton Airport </Description>
+          <City>Sármellék</City>
+          <Country>Hungary </Country>
+      </Row>
+   
+      <Row>
+          <Code>KEF</Code>
+          <Description>Keflavik International Airport </Description>
+          <City>Reykjavik</City>
+          <Country>Iceland</Country>
+      </Row>
+   
+      <Row>
+          <Code>AEY</Code>
+          <Description>Akureyri Airport </Description>
+          <City>Akureyri</City>
+          <Country>Iceland </Country>
+      </Row>
+   
+      <Row>
+          <Code>AMD</Code>
+          <Description>Sardar Vallabhbhai Patel International Airport </Description>
+          <City>Ahmedabad</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>ATQ</Code>
+          <Description>Sri Guru Ram Dass Jee International Airport </Description>
+          <City>Amritsar</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>BLR</Code>
+          <Description>Kempegowda International Airport </Description>
+          <City>Bangalore</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>BOM</Code>
+          <Description>Chhatarpati Shivaji International Airport </Description>
+          <City>Mumbai</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>CCJ</Code>
+          <Description>Calicut International Airport </Description>
+          <City>Kozhikode</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>CCU</Code>
+          <Description>Netaji Subhas Chandra Bose International Airport </Description>
+          <City>Kolkata</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>CJB</Code>
+          <Description>Coimbatore International Airport </Description>
+          <City>Coimbatore</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>COK</Code>
+          <Description>Cochin International Airport </Description>
+          <City>Cochin</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>DEL</Code>
+          <Description>Indira Gandhi International Airport </Description>
+          <City>New Delhi</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>GAU</Code>
+          <Description>Lokpriya Gopinath Bordoloi International Airport </Description>
+          <City>Guwahati</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>GOI</Code>
+          <Description>Goa International Airport </Description>
+          <City>Dabolim</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>HYD</Code>
+          <Description>Rajiv Gandhi International Airport </Description>
+          <City>Hyderabad</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>IXE</Code>
+          <Description>Mangalore Airport  </Description>
+          <City>Mangalore</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>JAI</Code>
+          <Description>Jaipur Airport </Description>
+          <City>Jaipur </City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>LKO</Code>
+          <Description>Chaudhary Charan Singh International Airport </Description>
+          <City>Lucknow</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>MAA</Code>
+          <Description>Chennai International Airport </Description>
+          <City>Chennai</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>PNQ</Code>
+          <Description>Pune Airport </Description>
+          <City>Pune</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>SXR</Code>
+          <Description>Srinagar International Airport  </Description>
+          <City>Srinagar </City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>TRV</Code>
+          <Description>Trivandrum International Airport </Description>
+          <City>Thiruvananthapuram</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>TRZ</Code>
+          <Description>Tiruchirappalli International Airport </Description>
+          <City>Trichy</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>VTZ</Code>
+          <Description>Visakhapatnam Airport </Description>
+          <City>Visakhapatnam</City>
+          <Country>India</Country>
+      </Row>
+   
+      <Row>
+          <Code>AMQ</Code>
+          <Description>Pattimura Airport </Description>
+          <City>Ambon</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>BDJ</Code>
+          <Description>Syamsudin Noor Airport </Description>
+          <City>Banjarmasin</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>BDO</Code>
+          <Description>Husein Sastranegara International Airport </Description>
+          <City>Bandung</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>BPN</Code>
+          <Description>Sultan Aji Muhammad Sulaiman Airport </Description>
+          <City>Kalimantan</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>CGK</Code>
+          <Description>Jakarta Soekarno-Hatta International Airport </Description>
+          <City>Jakarta</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>DJJ</Code>
+          <Description>Sentani Airport </Description>
+          <City>Jayapura</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>DPS</Code>
+          <Description>Ngurah Rai International Airport </Description>
+          <City>Denpasar</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>JOG</Code>
+          <Description>Adisucipto International Airport </Description>
+          <City>Yogyakarta</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KDI</Code>
+          <Description>Haluoleo Airport </Description>
+          <City>Kendari</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KNO</Code>
+          <Description>Kuala Namu International Airport </Description>
+          <City>Kuala Namu</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KOE</Code>
+          <Description>El Tari Airport </Description>
+          <City>Kupang</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>LOP</Code>
+          <Description>Lombok International Airport </Description>
+          <City>Lombok</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>MDC</Code>
+          <Description>Sam Ratulangi International Airport </Description>
+          <City>Manado </City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>PDG</Code>
+          <Description>Minangkabau International Airport </Description>
+          <City>Padang</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>PKU</Code>
+          <Description>Sultan Syarif Kasim II International Airport </Description>
+          <City>Pekanbaru</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>PKY</Code>
+          <Description>Tjilik Riwut Airport  </Description>
+          <City>Palangkaraya</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>PLM</Code>
+          <Description>Sultan Mahmud Badaruddin II International Airport </Description>
+          <City>Palembang</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>PLW</Code>
+          <Description>Mutiara Airport </Description>
+          <City>Palu</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>SOC</Code>
+          <Description>Adisumarmo International Airport </Description>
+          <City>Solo</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>SRG</Code>
+          <Description>Achmad Yani International Airport </Description>
+          <City>Semarang</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>SUB</Code>
+          <Description>Juanda International Airport </Description>
+          <City>Surabaya</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>UPG</Code>
+          <Description>Sultan Hasanuddin International Airport </Description>
+          <City>Makassar</City>
+          <Country>Indonesia</Country>
+      </Row>
+   
+      <Row>
+          <Code>BND</Code>
+          <Description>Bandar Abbas International Airport </Description>
+          <City>Bandar Abbas</City>
+          <Country>Iran</Country>
+      </Row>
+   
+      <Row>
+          <Code>GSM</Code>
+          <Description>Dayrestan Airport </Description>
+          <City>Dayrestan </City>
+          <Country>Iran</Country>
+      </Row>
+   
+      <Row>
+          <Code>IFN</Code>
+          <Description>Isfahan International Airport </Description>
+          <City>Isfahan </City>
+          <Country>Iran</Country>
+      </Row>
+   
+      <Row>
+          <Code>IKA</Code>
+          <Description>Tehran Imam Khomeini International Airport </Description>
+          <City>Tehran </City>
+          <Country>Iran</Country>
+      </Row>
+   
+      <Row>
+          <Code>KIH</Code>
+          <Description>Kish Airport </Description>
+          <City> Kish Island</City>
+          <Country>Iran</Country>
+      </Row>
+   
+      <Row>
+          <Code>MHD</Code>
+          <Description>Mashhad International Airport </Description>
+          <City>Mashhad </City>
+          <Country>Iran</Country>
+      </Row>
+   
+      <Row>
+          <Code>SYZ</Code>
+          <Description>Shiraz International Airport </Description>
+          <City>Shiraz </City>
+          <Country>Iran</Country>
+      </Row>
+   
+      <Row>
+          <Code>TBZ</Code>
+          <Description>Tabriz International Airport </Description>
+          <City>Tabriz </City>
+          <Country>Iran</Country>
+      </Row>
+   
+      <Row>
+          <Code>XBJ</Code>
+          <Description>Birjand International Airport </Description>
+          <City>Birjand,</City>
+          <Country>Iran</Country>
+      </Row>
+   
+      <Row>
+          <Code>BGW</Code>
+          <Description>Baghdad International Airport </Description>
+          <City>Baghdad </City>
+          <Country>Iraq</Country>
+      </Row>
+   
+      <Row>
+          <Code>BSR</Code>
+          <Description>Basra International Airport </Description>
+          <City>Basrah </City>
+          <Country>Iraq</Country>
+      </Row>
+   
+      <Row>
+          <Code>EBL</Code>
+          <Description>Erbil International Airport </Description>
+          <City>Erbil </City>
+          <Country>Iraq</Country>
+      </Row>
+   
+      <Row>
+          <Code>ISU</Code>
+          <Description>Sulaimaniyah International Airport </Description>
+          <City>Sulaimaniyah </City>
+          <Country>Iraq</Country>
+      </Row>
+   
+      <Row>
+          <Code>NJF</Code>
+          <Description>Al Najaf International Airport </Description>
+          <City>Najaf </City>
+          <Country>Iraq</Country>
+      </Row>
+   
+      <Row>
+          <Code>OSM</Code>
+          <Description>Mosul International Airport </Description>
+          <City>Mosul </City>
+          <Country>Iraq</Country>
+      </Row>
+   
+      <Row>
+          <Code>DUB</Code>
+          <Description>Dublin International Airport </Description>
+          <City>Dublin</City>
+          <Country>Ireland</Country>
+      </Row>
+   
+      <Row>
+          <Code>KIR</Code>
+          <Description>Kerry Airport </Description>
+          <City>Farranfore</City>
+          <Country>Ireland</Country>
+      </Row>
+   
+      <Row>
+          <Code>NOC</Code>
+          <Description>Ireland West Airport Knock </Description>
+          <City>Charlestown</City>
+          <Country>Ireland</Country>
+      </Row>
+   
+      <Row>
+          <Code>ORK</Code>
+          <Description>Cork Airport </Description>
+          <City>Ballygarvan</City>
+          <Country>Ireland</Country>
+      </Row>
+   
+      <Row>
+          <Code>SNN</Code>
+          <Description>Shannon Airport </Description>
+          <City>Shannon</City>
+          <Country>Ireland</Country>
+      </Row>
+   
+      <Row>
+          <Code>IOM</Code>
+          <Description>Isle of Man Airport </Description>
+          <City>Ronaldsway</City>
+          <Country>Isle of Man</Country>
+      </Row>
+   
+      <Row>
+          <Code>HFA</Code>
+          <Description>Haifa International Airport </Description>
+          <City>Haifa</City>
+          <Country>Israel</Country>
+      </Row>
+   
+      <Row>
+          <Code>TLV</Code>
+          <Description>Ben Gurion International Airport </Description>
+          <City>Greater Tel Aviv Area</City>
+          <Country>Israel</Country>
+      </Row>
+   
+      <Row>
+          <Code>VDA</Code>
+          <Description>Negev Ovda International Airport </Description>
+          <City>Eilat</City>
+          <Country>Israel</Country>
+      </Row>
+   
+      <Row>
+          <Code>CIA</Code>
+          <Description>Rome Ciampino Airport </Description>
+          <City>Rome</City>
+          <Country>Italy</Country>
+      </Row>
+   
+      <Row>
+          <Code>MXP</Code>
+          <Description>Milan Malpensa International Airport </Description>
+          <City>Milan</City>
+          <Country>Italy</Country>
+      </Row>
+   
+      <Row>
+          <Code>AHO</Code>
+          <Description>Alghero Fertilia Airport </Description>
+          <City>Fertilia</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>AOI</Code>
+          <Description>Ancona Falconara Airport </Description>
+          <City>Ancona</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>BDS</Code>
+          <Description>Salento Airport </Description>
+          <City>Brindisi</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>BGY</Code>
+          <Description>Il Caravaggio International Airport </Description>
+          <City>Orio al Serio</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>BLQ</Code>
+          <Description>Bologna Guglielmo Marconi Airport </Description>
+          <City>Bologna</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>BRI</Code>
+          <Description>Bari Karol Wojtyła Airport </Description>
+          <City>Bari</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>CAG</Code>
+          <Description>Cagliari Elmas Airport </Description>
+          <City>Cagliari</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>CTA</Code>
+          <Description>Fontanarossa Airport </Description>
+          <City>Catania</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>CUF</Code>
+          <Description>Cuneo International Airport </Description>
+          <City>Savigliano</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>FCO</Code>
+          <Description>Leonardo da Vinci–Fiumicino Airport </Description>
+          <City>Fiumicino</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>FLR</Code>
+          <Description>Florence Airport, Peretola </Description>
+          <City>Florence</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>GOA</Code>
+          <Description>Genoa Cristoforo Colombo Airport </Description>
+          <City>Genoa</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>LIN</Code>
+          <Description>Linate Airport </Description>
+          <City>Milan</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>NAP</Code>
+          <Description>Naples International Airport </Description>
+          <City>Capodichino</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>OLB</Code>
+          <Description>Olbia Costa Smeralda Airport </Description>
+          <City>Olbia</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>PEG</Code>
+          <Description>Perugia San Francesco d'Assisi  Umbria International Airport </Description>
+          <City>Perugia</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>PMF</Code>
+          <Description>Parma Airport </Description>
+          <City>Parma</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>PMO</Code>
+          <Description>Falcone Borsellino Airport </Description>
+          <City>Palermo</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>PSA</Code>
+          <Description>Pisa International Airport </Description>
+          <City>Pisa</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>PSR</Code>
+          <Description>Abruzzo Airport </Description>
+          <City>Pescara</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>RMI</Code>
+          <Description>Federico Fellini International Airport </Description>
+          <City>Rimini</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>SUF</Code>
+          <Description>Lamezia Terme International Airport </Description>
+          <City>Lamezia Terme</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>TPS</Code>
+          <Description>Vincenzo Florio Airport – Trapani Birgi </Description>
+          <City>Trapani</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>TRN</Code>
+          <Description>Turin Airport </Description>
+          <City>Caselle Torinese</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>TRS</Code>
+          <Description>Trieste Friuli Venezia Giulia Airport </Description>
+          <City>Ronchi dei Legionari</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>VBS</Code>
+          <Description>Brescia Airport </Description>
+          <City>Brescia</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>VCE</Code>
+          <Description>Venice Marco Polo Airport </Description>
+          <City>Tessera</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>VRN</Code>
+          <Description>Verona Villafranca Airport </Description>
+          <City>Villafranca di Verona</City>
+          <Country>Italy </Country>
+      </Row>
+   
+      <Row>
+          <Code>AOJ</Code>
+          <Description>Aomori Airport </Description>
+          <City>Aomori</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>AXT</Code>
+          <Description>Akita Airport </Description>
+          <City>Akita</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>CTS</Code>
+          <Description>New Chitose Airport </Description>
+          <City>Chitose</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>FSZ</Code>
+          <Description>Shizuoka Airport </Description>
+          <City>Makinohara</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>FUK</Code>
+          <Description>Fukuoka Airport </Description>
+          <City>Fukuoka</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>HIJ</Code>
+          <Description>Hiroshima Airport </Description>
+          <City>Hiroshima</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>HKD</Code>
+          <Description>Hakodate Airport </Description>
+          <City>Hokkaidō</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>HND</Code>
+          <Description>Haneda Airport </Description>
+          <City>Tokyo </City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>KIJ</Code>
+          <Description>Niigata Airport </Description>
+          <City>Niigata </City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>KIX</Code>
+          <Description>Kansai International Airport </Description>
+          <City>Osaka</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>KKJ</Code>
+          <Description>Kitakyushu Airport </Description>
+          <City>Kitakyushu </City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>KMQ</Code>
+          <Description>Komatsu Airport </Description>
+          <City>Komatsu</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>KOJ</Code>
+          <Description>Kagoshima Airport </Description>
+          <City>Kirishima</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>NGO</Code>
+          <Description>Chūbu Centrair International Airport </Description>
+          <City>Nagoya</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>NGS</Code>
+          <Description>Nagasaki Airport </Description>
+          <City>Nagasaki</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>NRT</Code>
+          <Description>Tokyo Narita International Airport </Description>
+          <City>Tokyo</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>OIT</Code>
+          <Description>Oita Airport </Description>
+          <City>Oita </City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>OKJ</Code>
+          <Description>Okayama Airport </Description>
+          <City>Okayama </City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>SDJ</Code>
+          <Description>Sendai Airport </Description>
+          <City>Sendai</City>
+          <Country>Japan</Country>
+      </Row>
+   
+      <Row>
+          <Code>ADJ</Code>
+          <Description>Amman Civil Airport </Description>
+          <City>Amman</City>
+          <Country>Jordan</Country>
+      </Row>
+   
+      <Row>
+          <Code>AMM</Code>
+          <Description>Queen Alia International Airport </Description>
+          <City>Amman</City>
+          <Country>Jordan</Country>
+      </Row>
+   
+      <Row>
+          <Code>AQJ</Code>
+          <Description>King Hussein International Airport </Description>
+          <City>Aqaba</City>
+          <Country>Jordan</Country>
+      </Row>
+   
+      <Row>
+          <Code>ALA</Code>
+          <Description>Almaty International Airport </Description>
+          <City>Almaty</City>
+          <Country>Kazakhstan</Country>
+      </Row>
+   
+      <Row>
+          <Code>CIT</Code>
+          <Description>Shymkent International Airport </Description>
+          <City>Shymkent</City>
+          <Country>Kazakhstan</Country>
+      </Row>
+   
+      <Row>
+          <Code>GUW</Code>
+          <Description>Atyrau Airport </Description>
+          <City>Atyrau</City>
+          <Country>Kazakhstan</Country>
+      </Row>
+   
+      <Row>
+          <Code>KGF</Code>
+          <Description>Sary-Arka Airport </Description>
+          <City>Karaganda</City>
+          <Country>Kazakhstan</Country>
+      </Row>
+   
+      <Row>
+          <Code>KSN</Code>
+          <Description>Kostanay Airport </Description>
+          <City>Kostanay</City>
+          <Country>Kazakhstan</Country>
+      </Row>
+   
+      <Row>
+          <Code>SCO</Code>
+          <Description>Aktau Airport </Description>
+          <City>Aktau</City>
+          <Country>Kazakhstan</Country>
+      </Row>
+   
+      <Row>
+          <Code>TSE</Code>
+          <Description>Astana International Airport </Description>
+          <City>Astana</City>
+          <Country>Kazakhstan</Country>
+      </Row>
+   
+      <Row>
+          <Code>URA</Code>
+          <Description>Oral Ak Zhol Airport </Description>
+          <City>Oral</City>
+          <Country>Kazakhstan</Country>
+      </Row>
+   
+      <Row>
+          <Code>EDL</Code>
+          <Description>Eldoret International Airport </Description>
+          <City>Eldoret</City>
+          <Country>Kenya</Country>
+      </Row>
+   
+      <Row>
+          <Code>KIS</Code>
+          <Description>Kisumu International Airport </Description>
+          <City>Kisumu</City>
+          <Country>Kenya</Country>
+      </Row>
+   
+      <Row>
+          <Code>MBA</Code>
+          <Description>Moi International Airport </Description>
+          <City>Mombasa</City>
+          <Country>Kenya</Country>
+      </Row>
+   
+      <Row>
+          <Code>NBO</Code>
+          <Description>Jomo Kenyatta International Airport </Description>
+          <City>Nairobi</City>
+          <Country>Kenya</Country>
+      </Row>
+   
+      <Row>
+          <Code>CJU</Code>
+          <Description>Jeju International Airport </Description>
+          <City>Jeju</City>
+          <Country>Korea</Country>
+      </Row>
+   
+      <Row>
+          <Code>ICN</Code>
+          <Description>Incheon International Airport </Description>
+          <City>Seoul</City>
+          <Country>Korea</Country>
+      </Row>
+   
+      <Row>
+          <Code>MWX</Code>
+          <Description>Muan International Airport </Description>
+          <City>Gwangju</City>
+          <Country>Korea</Country>
+      </Row>
+   
+      <Row>
+          <Code>PUS</Code>
+          <Description>Gimhae International Airport </Description>
+          <City>Busan</City>
+          <Country>Korea</Country>
+      </Row>
+   
+      <Row>
+          <Code>TAE</Code>
+          <Description>Daegu International Airport </Description>
+          <City>Daegu</City>
+          <Country>Korea</Country>
+      </Row>
+   
+      <Row>
+          <Code>KWI</Code>
+          <Description>Kuwait International Airport </Description>
+          <City> Farwaniyah</City>
+          <Country>Kuwait</Country>
+      </Row>
+   
+      <Row>
+          <Code>FRU</Code>
+          <Description>Manas International Airport </Description>
+          <City>Bishkek</City>
+          <Country>Kyrgyzstan</Country>
+      </Row>
+   
+      <Row>
+          <Code>OSS</Code>
+          <Description>Osh Airport </Description>
+          <City>Osh</City>
+          <Country>Kyrgyzstan</Country>
+      </Row>
+   
+      <Row>
+          <Code>RIX</Code>
+          <Description>Riga International Airport </Description>
+          <City>Riga</City>
+          <Country>Latvia</Country>
+      </Row>
+   
+      <Row>
+          <Code>BEY</Code>
+          <Description>Beirut Rafic Hariri International Airport </Description>
+          <City>Beirut</City>
+          <Country>Lebanon</Country>
+      </Row>
+   
+      <Row>
+          <Code>MSU</Code>
+          <Description>Moshoeshoe I International Airport </Description>
+          <City>Maseru</City>
+          <Country>Lesotho</Country>
+      </Row>
+   
+      <Row>
+          <Code>ROB</Code>
+          <Description>Roberts International Airport </Description>
+          <City>Monrovia</City>
+          <Country>Liberia </Country>
+      </Row>
+   
+      <Row>
+          <Code>BEN</Code>
+          <Description>Benina International Airport </Description>
+          <City>Benghazi</City>
+          <Country>Libya </Country>
+      </Row>
+   
+      <Row>
+          <Code>SEB</Code>
+          <Description>Sabha Airport </Description>
+          <City>Sabha</City>
+          <Country>Libya </Country>
+      </Row>
+   
+      <Row>
+          <Code>TIP</Code>
+          <Description>Tripoli International Airport </Description>
+          <City>Tripoli</City>
+          <Country>Libya </Country>
+      </Row>
+   
+      <Row>
+          <Code>DIE</Code>
+          <Description>Arrachart Airport </Description>
+          <City>Antsiranana</City>
+          <Country>Madagascar</Country>
+      </Row>
+   
+      <Row>
+          <Code>FTU</Code>
+          <Description>Tolanaro Airport </Description>
+          <City>Tolanaro</City>
+          <Country>Madagascar</Country>
+      </Row>
+   
+      <Row>
+          <Code>MJN</Code>
+          <Description>Amborovy Airport </Description>
+          <City>Mahajanga</City>
+          <Country>Madagascar</Country>
+      </Row>
+   
+      <Row>
+          <Code>NOS</Code>
+          <Description>Fascene Airport </Description>
+          <City>Nosy Be</City>
+          <Country>Madagascar</Country>
+      </Row>
+   
+      <Row>
+          <Code>TLE</Code>
+          <Description>Toliara Airport </Description>
+          <City>Toliara</City>
+          <Country>Madagascar</Country>
+      </Row>
+   
+      <Row>
+          <Code>TMM</Code>
+          <Description>Toamasina Airport </Description>
+          <City>Toamasina</City>
+          <Country>Madagascar</Country>
+      </Row>
+   
+      <Row>
+          <Code>TNR</Code>
+          <Description>Ivato International Airport </Description>
+          <City>Antananarivo</City>
+          <Country>Madagascar</Country>
+      </Row>
+   
+      <Row>
+          <Code>BLZ</Code>
+          <Description>Chileka International Airport </Description>
+          <City>Blantyre</City>
+          <Country>Malawi</Country>
+      </Row>
+   
+      <Row>
+          <Code>LLW</Code>
+          <Description>Lilongwe International Airport </Description>
+          <City>Lilongwe</City>
+          <Country>Malawi</Country>
+      </Row>
+   
+      <Row>
+          <Code>BKI</Code>
+          <Description>Kota Kinabalu International Airport </Description>
+          <City>Kota Kinabalu</City>
+          <Country>Malaysia</Country>
+      </Row>
+   
+      <Row>
+          <Code>IPH</Code>
+          <Description>Sultan Azlan Shah Airport </Description>
+          <City>Ipoh</City>
+          <Country>Malaysia</Country>
+      </Row>
+   
+      <Row>
+          <Code>JHB</Code>
+          <Description>Senai International Airport </Description>
+          <City>Senai</City>
+          <Country>Malaysia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KCH</Code>
+          <Description>Kuching International Airport </Description>
+          <City>Kuching </City>
+          <Country>Malaysia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KUA</Code>
+          <Description>Sultan Haji Ahmad Shah Airport </Description>
+          <City>Pahang</City>
+          <Country>Malaysia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KUL</Code>
+          <Description>Kuala Lumpur International Airport </Description>
+          <City>Kuala Lumpur</City>
+          <Country>Malaysia</Country>
+      </Row>
+   
+      <Row>
+          <Code>LGK</Code>
+          <Description>Langkawi International Airport </Description>
+          <City> Langkawi</City>
+          <Country>Malaysia</Country>
+      </Row>
+   
+      <Row>
+          <Code>MKZ</Code>
+          <Description>Malacca International Airport </Description>
+          <City>Malacca</City>
+          <Country>Malaysia</Country>
+      </Row>
+   
+      <Row>
+          <Code>PEN</Code>
+          <Description>Penang International Airport </Description>
+          <City>Penang</City>
+          <Country>Malaysia</Country>
+      </Row>
+   
+      <Row>
+          <Code>SZB</Code>
+          <Description>Sultan Abdul Aziz Shah Airport </Description>
+          <City>Subang</City>
+          <Country>Malaysia</Country>
+      </Row>
+   
+      <Row>
+          <Code>BKO</Code>
+          <Description>Sénou International Airport </Description>
+          <City>Bamako</City>
+          <Country>Mali </Country>
+      </Row>
+   
+      <Row>
+          <Code>MLA</Code>
+          <Description>Malta International Airport </Description>
+          <City>Valletta</City>
+          <Country>Malta</Country>
+      </Row>
+   
+      <Row>
+          <Code>NKC</Code>
+          <Description>Nouakchott International Airport </Description>
+          <City>Nouakchott</City>
+          <Country>Mauritania</Country>
+      </Row>
+   
+      <Row>
+          <Code>MRU</Code>
+          <Description>Sir Seewoosagur Ramgoolam International Airport </Description>
+          <City>Plaine Magnien</City>
+          <Country>Mauritius</Country>
+      </Row>
+   
+      <Row>
+          <Code>DZA</Code>
+          <Description>Dzaoudzi Pamandzi International Airport </Description>
+          <City>Dzaoudzi</City>
+          <Country>Mayotte</Country>
+      </Row>
+   
+      <Row>
+          <Code>ULN</Code>
+          <Description>Chinggis Khaan International Airport </Description>
+          <City>Ulaanbaatar</City>
+          <Country>Mongolia</Country>
+      </Row>
+   
+      <Row>
+          <Code>AGA</Code>
+          <Description>Al Massira Airport </Description>
+          <City>Agadir</City>
+          <Country>Morocco</Country>
+      </Row>
+   
+      <Row>
+          <Code>CMN</Code>
+          <Description>Mohammed V International Airport </Description>
+          <City>Casablanca</City>
+          <Country>Morocco</Country>
+      </Row>
+   
+      <Row>
+          <Code>FEZ</Code>
+          <Description>Saïss Airport </Description>
+          <City>Fes</City>
+          <Country>Morocco</Country>
+      </Row>
+   
+      <Row>
+          <Code>NDR</Code>
+          <Description>Nador International Airport </Description>
+          <City>Nador</City>
+          <Country>Morocco</Country>
+      </Row>
+   
+      <Row>
+          <Code>OUD</Code>
+          <Description>Angads Airport </Description>
+          <City>Oujda</City>
+          <Country>Morocco</Country>
+      </Row>
+   
+      <Row>
+          <Code>RAK</Code>
+          <Description>Marrakesh Menara Airport </Description>
+          <City>Marrakesh</City>
+          <Country>Morocco</Country>
+      </Row>
+   
+      <Row>
+          <Code>RBA</Code>
+          <Description>Rabat Salé Airport </Description>
+          <City>Salé</City>
+          <Country>Morocco</Country>
+      </Row>
+   
+      <Row>
+          <Code>TNG</Code>
+          <Description>Tangier Ibn Battouta Airport </Description>
+          <City>Tangier</City>
+          <Country>Morocco</Country>
+      </Row>
+   
+      <Row>
+          <Code>TTU</Code>
+          <Description>Sania Ramel Airport </Description>
+          <City>Tétouan</City>
+          <Country>Morocco</Country>
+      </Row>
+   
+      <Row>
+          <Code>APL</Code>
+          <Description>Nampula Airport </Description>
+          <City>Nampula</City>
+          <Country>Mozambique</Country>
+      </Row>
+   
+      <Row>
+          <Code>BEW</Code>
+          <Description>Beira Airport </Description>
+          <City>Beira</City>
+          <Country>Mozambique</Country>
+      </Row>
+   
+      <Row>
+          <Code>INH</Code>
+          <Description>Inhambane Airport </Description>
+          <City>Inhambane</City>
+          <Country>Mozambique</Country>
+      </Row>
+   
+      <Row>
+          <Code>MPM</Code>
+          <Description>Maputo International Airport </Description>
+          <City>Maputo</City>
+          <Country>Mozambique</Country>
+      </Row>
+   
+      <Row>
+          <Code>POL</Code>
+          <Description>Pemba Airport </Description>
+          <City>Pemba</City>
+          <Country>Mozambique</Country>
+      </Row>
+   
+      <Row>
+          <Code>TET</Code>
+          <Description>Chingozi Airport </Description>
+          <City>Tete</City>
+          <Country>Mozambique</Country>
+      </Row>
+   
+      <Row>
+          <Code>VNX </Code>
+          <Description>Vilankulo Airport </Description>
+          <City>Vilanculos</City>
+          <Country>Mozambique</Country>
+      </Row>
+   
+      <Row>
+          <Code>MDL</Code>
+          <Description>Mandalay International Airport </Description>
+          <City>Mandalay </City>
+          <Country>Myanmar </Country>
+      </Row>
+   
+      <Row>
+          <Code>NYT </Code>
+          <Description>Naypyidaw Airport </Description>
+          <City>Naypyidaw</City>
+          <Country>Myanmar </Country>
+      </Row>
+   
+      <Row>
+          <Code>RGN</Code>
+          <Description>Yangon International Airport </Description>
+          <City>Yangon </City>
+          <Country>Myanmar </Country>
+      </Row>
+   
+      <Row>
+          <Code>WDH</Code>
+          <Description>Windhoek Hosea Kutako International Airport </Description>
+          <City>Windhoek</City>
+          <Country>Namibia</Country>
+      </Row>
+   
+      <Row>
+          <Code>WVB</Code>
+          <Description>Walvis Bay Airport </Description>
+          <City>Walvis Bay</City>
+          <Country>Namibia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KTM</Code>
+          <Description>Tribhuvan International Airport </Description>
+          <City>Kathmandu</City>
+          <Country>Nepal</Country>
+      </Row>
+   
+      <Row>
+          <Code>AMS</Code>
+          <Description>Amsterdam Schiphol International Airport </Description>
+          <City>Amsterdam</City>
+          <Country>Netherlands</Country>
+      </Row>
+   
+      <Row>
+          <Code>EIN</Code>
+          <Description>Eindhoven Airport </Description>
+          <City>Eindhoven</City>
+          <Country>Netherlands</Country>
+      </Row>
+   
+      <Row>
+          <Code>GRQ</Code>
+          <Description>Groningen Airport Eelde </Description>
+          <City>Eelde, Drenthe</City>
+          <Country>Netherlands</Country>
+      </Row>
+   
+      <Row>
+          <Code>MST</Code>
+          <Description>Maastricht Aachen Airport </Description>
+          <City>Beek</City>
+          <Country>Netherlands</Country>
+      </Row>
+   
+      <Row>
+          <Code>RTM</Code>
+          <Description>Rotterdam The Hague Airport </Description>
+          <City>Rotterdam and The Hague</City>
+          <Country>Netherlands</Country>
+      </Row>
+   
+      <Row>
+          <Code>AKL</Code>
+          <Description>Auckland International Airport </Description>
+          <City>Auckland</City>
+          <Country>New Zealand</Country>
+      </Row>
+   
+      <Row>
+          <Code>CHC</Code>
+          <Description>Christchurch International Airport </Description>
+          <City>Christchurch</City>
+          <Country>New Zealand</Country>
+      </Row>
+   
+      <Row>
+          <Code>DUD</Code>
+          <Description>Dunedin International Airport </Description>
+          <City>Dunedin</City>
+          <Country>New Zealand</Country>
+      </Row>
+   
+      <Row>
+          <Code>HLZ</Code>
+          <Description>Hamilton International Airport </Description>
+          <City>Hamilton</City>
+          <Country>New Zealand</Country>
+      </Row>
+   
+      <Row>
+          <Code>ROT</Code>
+          <Description>Rotorua International Airport </Description>
+          <City>Rotorua</City>
+          <Country>New Zealand</Country>
+      </Row>
+   
+      <Row>
+          <Code>WLG</Code>
+          <Description>Wellington International Airport </Description>
+          <City>Wellington</City>
+          <Country>New Zealand</Country>
+      </Row>
+   
+      <Row>
+          <Code>ZQN</Code>
+          <Description>Queenstown Airport </Description>
+          <City>Queenstown</City>
+          <Country>New Zealand</Country>
+      </Row>
+   
+      <Row>
+          <Code>NIM</Code>
+          <Description>Diori Hamani International Airport </Description>
+          <City>Niamey</City>
+          <Country>Niger</Country>
+      </Row>
+   
+      <Row>
+          <Code>ABV</Code>
+          <Description>Nnamdi Azikiwe International Airport </Description>
+          <City>Abuja</City>
+          <Country>Nigeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>KAN</Code>
+          <Description>Mallam Aminu Kano International Airport </Description>
+          <City>Kano</City>
+          <Country>Nigeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>LOS</Code>
+          <Description>Murtala Muhammed International Airport </Description>
+          <City>Lagos</City>
+          <Country>Nigeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>PHC</Code>
+          <Description>Port Harcourt International Airport </Description>
+          <City>Port Harcourt</City>
+          <Country>Nigeria</Country>
+      </Row>
+   
+      <Row>
+          <Code>FNJ</Code>
+          <Description>Pyongyang Sunan International Airport </Description>
+          <City> Sunan District, Pyongyang,</City>
+          <Country>North Korea</Country>
+      </Row>
+   
+      <Row>
+          <Code>AES</Code>
+          <Description>Ålesund Airport, Vigra </Description>
+          <City>Vigra</City>
+          <Country>Norway</Country>
+      </Row>
+   
+      <Row>
+          <Code>BGO</Code>
+          <Description>Bergen Airport, Flesland </Description>
+          <City>Flesland, Bergen</City>
+          <Country>Norway</Country>
+      </Row>
+   
+      <Row>
+          <Code>HAU</Code>
+          <Description>Haugesund Airport, Karmøy </Description>
+          <City>Haugesund</City>
+          <Country>Norway</Country>
+      </Row>
+   
+      <Row>
+          <Code>OSL</Code>
+          <Description>Oslo Airport </Description>
+          <City>Oslo</City>
+          <Country>Norway</Country>
+      </Row>
+   
+      <Row>
+          <Code>RYG</Code>
+          <Description>Moss Airport, Rygge </Description>
+          <City>Moss</City>
+          <Country>Norway</Country>
+      </Row>
+   
+      <Row>
+          <Code>SVG</Code>
+          <Description>Stavanger Airport, Sola </Description>
+          <City>Sola, Rogaland</City>
+          <Country>Norway</Country>
+      </Row>
+   
+      <Row>
+          <Code>TOS</Code>
+          <Description>Tromsø Airport </Description>
+          <City>Langnes, Tromsø</City>
+          <Country>Norway</Country>
+      </Row>
+   
+      <Row>
+          <Code>TRF</Code>
+          <Description>Sandefjord Airport, Torp </Description>
+          <City>Sandefjord</City>
+          <Country>Norway</Country>
+      </Row>
+   
+      <Row>
+          <Code>MCT</Code>
+          <Description>Muscat International Airport </Description>
+          <City>Muscat </City>
+          <Country>Oman</Country>
+      </Row>
+   
+      <Row>
+          <Code>SLL</Code>
+          <Description>Salalah Airport </Description>
+          <City>Salalah</City>
+          <Country>Oman</Country>
+      </Row>
+   
+      <Row>
+          <Code>KHS</Code>
+          <Description>Khasab Airport</Description>
+          <City>Musandam</City>
+          <Country>Oman</Country>
+      </Row>
+   
+      <Row>
+          <Code>BHV</Code>
+          <Description>Bahawalpur Airport </Description>
+          <City>Bahawalpur</City>
+          <Country>Pakistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>DEA</Code>
+          <Description>Dera Ghazi Khan International Airport </Description>
+          <City>Dera Ghazi Khan</City>
+          <Country>Pakistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>GWD</Code>
+          <Description>Gwadar International Airport </Description>
+          <City>Gwadar</City>
+          <Country>Pakistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>ISB</Code>
+          <Description>Benazir Bhutto International Airport </Description>
+          <City>Rawalpindi</City>
+          <Country>Pakistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>KHI</Code>
+          <Description>Jinnah International Airport </Description>
+          <City>Karachi</City>
+          <Country>Pakistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>LHE</Code>
+          <Description>Allama Iqbal International Airport </Description>
+          <City>Lahore</City>
+          <Country>Pakistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>LYP</Code>
+          <Description>Faisalabad International Airport </Description>
+          <City>Faisalabad</City>
+          <Country>Pakistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>MUX</Code>
+          <Description>Multan International Airport </Description>
+          <City>Multan</City>
+          <Country>Pakistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>PEW</Code>
+          <Description>Bacha Khan International Airport </Description>
+          <City>Peshawar</City>
+          <Country>Pakistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>RYK</Code>
+          <Description>Shaikh Zayed International Airport </Description>
+          <City>Rahim Yar Khan</City>
+          <Country>Pakistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>SKT</Code>
+          <Description>Sialkot International Airport </Description>
+          <City>Sialkot </City>
+          <Country>Pakistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>TUK</Code>
+          <Description>Turbat International Airport </Description>
+          <City>Turbat</City>
+          <Country>Pakistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>UET</Code>
+          <Description>Quetta International Airport </Description>
+          <City>Balochistan</City>
+          <Country>Pakistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>BCD</Code>
+          <Description>Bacolod Silay International Airport </Description>
+          <City>Barangay Bagtic</City>
+          <Country>Philippines</Country>
+      </Row>
+   
+      <Row>
+          <Code>CEB</Code>
+          <Description>Mactan-Cebu International Airport </Description>
+          <City>Central Visayas </City>
+          <Country>Philippines</Country>
+      </Row>
+   
+      <Row>
+          <Code>CGY</Code>
+          <Description>Laguindingan Airport </Description>
+          <City>Barangay Moog</City>
+          <Country>Philippines</Country>
+      </Row>
+   
+      <Row>
+          <Code>CRK</Code>
+          <Description>Clark International Airport </Description>
+          <City>Angeles City</City>
+          <Country>Philippines</Country>
+      </Row>
+   
+      <Row>
+          <Code>DVO</Code>
+          <Description>Francisco Bangoy International Airport </Description>
+          <City>Davao City</City>
+          <Country>Philippines</Country>
+      </Row>
+   
+      <Row>
+          <Code>GES</Code>
+          <Description>General Santos International Airport </Description>
+          <City>Barangay Fatima</City>
+          <Country>Philippines</Country>
+      </Row>
+   
+      <Row>
+          <Code>ILO</Code>
+          <Description>Iloilo International Airport </Description>
+          <City>Iloilo</City>
+          <Country>Philippines</Country>
+      </Row>
+   
+      <Row>
+          <Code>KLO</Code>
+          <Description>Kalibo International Airport </Description>
+          <City>Kalibo</City>
+          <Country>Philippines</Country>
+      </Row>
+   
+      <Row>
+          <Code>LAO</Code>
+          <Description>Laoag International Airport </Description>
+          <City>Laoag City</City>
+          <Country>Philippines</Country>
+      </Row>
+   
+      <Row>
+          <Code>MNL</Code>
+          <Description>Ninoy Aquino International Airport </Description>
+          <City>Manila</City>
+          <Country>Philippines</Country>
+      </Row>
+   
+      <Row>
+          <Code>PPS</Code>
+          <Description>Puerto Princesa International Airport </Description>
+          <City>Barangay San Jose</City>
+          <Country>Philippines</Country>
+      </Row>
+   
+      <Row>
+          <Code>SFS</Code>
+          <Description>Subic Bay International Airport </Description>
+          <City>Bataan</City>
+          <Country>Philippines</Country>
+      </Row>
+   
+      <Row>
+          <Code>ZAM</Code>
+          <Description>Zamboanga International Airport </Description>
+          <City>Zamboanga </City>
+          <Country>Philippines</Country>
+      </Row>
+   
+      <Row>
+          <Code>BZG</Code>
+          <Description>Bydgoszcz Ignacy Jan Paderewski Airport </Description>
+          <City>Bydgoszcz</City>
+          <Country>Poland</Country>
+      </Row>
+   
+      <Row>
+          <Code>GDN</Code>
+          <Description>Gdańsk Lech Wałęsa Airport </Description>
+          <City>Gdańsk</City>
+          <Country>Poland</Country>
+      </Row>
+   
+      <Row>
+          <Code>KRK</Code>
+          <Description>John Paul II International Airport Kraków–Balice </Description>
+          <City>Balice</City>
+          <Country>Poland</Country>
+      </Row>
+   
+      <Row>
+          <Code>KTW</Code>
+          <Description>Katowice International Airport </Description>
+          <City>Katowice</City>
+          <Country>Poland</Country>
+      </Row>
+   
+      <Row>
+          <Code>LCJ</Code>
+          <Description>Łódź Władysław Reymont Airport </Description>
+          <City>Łódź</City>
+          <Country>Poland</Country>
+      </Row>
+   
+      <Row>
+          <Code>POZ</Code>
+          <Description>Poznań Ławica Airport </Description>
+          <City>Poznań </City>
+          <Country>Poland</Country>
+      </Row>
+   
+      <Row>
+          <Code>RZE</Code>
+          <Description>Jasionka Airport </Description>
+          <City>Rzeszów</City>
+          <Country>Poland</Country>
+      </Row>
+   
+      <Row>
+          <Code>SZZ</Code>
+          <Description>&quot;Solidarity&quot; Szczecin–Goleniów Airport </Description>
+          <City>Goleniów</City>
+          <Country>Poland</Country>
+      </Row>
+   
+      <Row>
+          <Code>WAW</Code>
+          <Description>Warsaw Frederic Chopin Airport </Description>
+          <City>Warsaw</City>
+          <Country>Poland</Country>
+      </Row>
+   
+      <Row>
+          <Code>WMI</Code>
+          <Description>Warsaw–Modlin Mazovia Airport </Description>
+          <City>Nowy Dwór Mazowiecki</City>
+          <Country>Poland</Country>
+      </Row>
+   
+      <Row>
+          <Code>WRO</Code>
+          <Description>Wrocław–Copernicus Airport </Description>
+          <City>Wrocław</City>
+          <Country>Poland</Country>
+      </Row>
+   
+      <Row>
+          <Code>FAO</Code>
+          <Description>Faro Airport </Description>
+          <City>Faro</City>
+          <Country>Portugal</Country>
+      </Row>
+   
+      <Row>
+          <Code>FNC</Code>
+          <Description>Madeira Airport </Description>
+          <City>Santa Catarina, Santa Cruz</City>
+          <Country>Portugal</Country>
+      </Row>
+   
+      <Row>
+          <Code>LIS</Code>
+          <Description>Lisbon Portela Airport </Description>
+          <City>Lisbon</City>
+          <Country>Portugal</Country>
+      </Row>
+   
+      <Row>
+          <Code>OPO</Code>
+          <Description>Francisco Sá Carneiro Airport </Description>
+          <City>Porto </City>
+          <Country>Portugal</Country>
+      </Row>
+   
+      <Row>
+          <Code>PDL</Code>
+          <Description>João Paulo II Airport </Description>
+          <City>Ponta Delgada</City>
+          <Country>Portugal</Country>
+      </Row>
+   
+      <Row>
+          <Code>PXO</Code>
+          <Description>Porto Santo Airport  </Description>
+          <City>Vila Baleira</City>
+          <Country>Portugal</Country>
+      </Row>
+   
+      <Row>
+          <Code>TER</Code>
+          <Description>Lajes Air Base </Description>
+          <City>Lajes</City>
+          <Country>Portugal</Country>
+      </Row>
+   
+      <Row>
+          <Code>DOH</Code>
+          <Description>Doha International Airport </Description>
+          <City>Doha</City>
+          <Country>Qatar</Country>
+      </Row>
+   
+      <Row>
+          <Code>BZV</Code>
+          <Description>Maya-Maya Airport </Description>
+          <City>Brazzaville</City>
+          <Country>Republic of the Congo</Country>
+      </Row>
+   
+      <Row>
+          <Code>PNR</Code>
+          <Description>Pointe Noire Airport </Description>
+          <City>Pointe-Noire</City>
+          <Country>Republic of the Congo</Country>
+      </Row>
+   
+      <Row>
+          <Code>AER</Code>
+          <Description>Sochi International Airport </Description>
+          <City>Sochi</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>PEE</Code>
+          <Description>Bolshoye Savino Airport </Description>
+          <City>Perm</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>ARH</Code>
+          <Description>Talagi Airport </Description>
+          <City>Arkhangelsk</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>DME</Code>
+          <Description>Moscow Domodedovo Airport </Description>
+          <City>Moscow</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>HTA</Code>
+          <Description>Chita Kadala Airport </Description>
+          <City>Chita</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>IKT</Code>
+          <Description>International Airport Irkutsk </Description>
+          <City>Irkutsk</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KGD</Code>
+          <Description>Khrabrovo Airport </Description>
+          <City>Kaliningrad</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KHV</Code>
+          <Description>Khabarovsk Novy Airport </Description>
+          <City>Khabarovsk</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KRR</Code>
+          <Description>Krasnodar International Airport  </Description>
+          <City>Krasnodar</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KUF</Code>
+          <Description>Samara Kurumoch Airport </Description>
+          <City>Samara</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KZN</Code>
+          <Description>Kazan International Airport </Description>
+          <City>Kazan</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>LED</Code>
+          <Description>Pulkovo Airport </Description>
+          <City>Saint Petersburg</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>OVB</Code>
+          <Description>Tolmachevo Airport </Description>
+          <City>Novosibirsk</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>ROV</Code>
+          <Description>Rostov-na-Donu Airport </Description>
+          <City>Rostov-on-Don</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>SVO</Code>
+          <Description>Sheremetyevo International Airport </Description>
+          <City>Khimki, Moscow Oblast,</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>SVX </Code>
+          <Description>Koltsovo International Airport </Description>
+          <City>Yekaterinburg</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>UFA</Code>
+          <Description>Ufa International Airport </Description>
+          <City>Ufa, Bashkortostan,</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>VKO</Code>
+          <Description>Vnukovo International Airport  </Description>
+          <City>Moscow</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>VVO</Code>
+          <Description>Vladivostok International Airport </Description>
+          <City>Vladivostok</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>YKS</Code>
+          <Description>Yakutsk Airport  </Description>
+          <City>Yakutsk</City>
+          <Country>Russia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KGL</Code>
+          <Description>Kigali International Airport </Description>
+          <City>Kigali</City>
+          <Country>Rwanda</Country>
+      </Row>
+   
+      <Row>
+          <Code>TMS</Code>
+          <Description>São Tomé International Airport </Description>
+          <City>São Tomé</City>
+          <Country>São Tomé and Príncipe</Country>
+      </Row>
+   
+      <Row>
+          <Code>DMM</Code>
+          <Description>King Fahad International Airport </Description>
+          <City>Dammam</City>
+          <Country>Saudi Arabia</Country>
+      </Row>
+   
+      <Row>
+          <Code>JED</Code>
+          <Description>King Abdulaziz International Airport </Description>
+          <City>Jeddah</City>
+          <Country>Saudi Arabia</Country>
+      </Row>
+   
+      <Row>
+          <Code>MED</Code>
+          <Description>Prince Mohammad Bin Abdulaziz International Airport </Description>
+          <City>Medina</City>
+          <Country>Saudi Arabia</Country>
+      </Row>
+   
+      <Row>
+          <Code>RUH</Code>
+          <Description>King Khalid International Airport </Description>
+          <City>Riyadh</City>
+          <Country>Saudi Arabia</Country>
+      </Row>
+   
+      <Row>
+          <Code>HOF</Code>
+          <Description>Al-Ahsa International Airport</Description>
+          <City>Eastern Province</City>
+          <Country>Saudi Arabia</Country>
+      </Row>
+   
+      <Row>
+          <Code>YNB</Code>
+          <Description>Yanbu Airport</Description>
+          <City>Yanbu</City>
+          <Country>Saudi Arabia</Country>
+      </Row>
+   
+      <Row>
+          <Code>EDI</Code>
+          <Description>Edinburgh Airport </Description>
+          <City>Edinburgh</City>
+          <Country>Scotland</Country>
+      </Row>
+   
+      <Row>
+          <Code>DKR</Code>
+          <Description>Léopold Sédar Senghor International Airport </Description>
+          <City>Dakar</City>
+          <Country>Senegal </Country>
+      </Row>
+   
+      <Row>
+          <Code>BEG</Code>
+          <Description>Belgrade Nikola Tesla Airport </Description>
+          <City>Belgrade</City>
+          <Country>Serbia</Country>
+      </Row>
+   
+      <Row>
+          <Code>INI</Code>
+          <Description>Niš Constantine the Great Airpor </Description>
+          <City>Donje Međurovo</City>
+          <Country>Serbia</Country>
+      </Row>
+   
+      <Row>
+          <Code>SEZ</Code>
+          <Description>Seychelles International Airport </Description>
+          <City>Victoria</City>
+          <Country>Seychelles</Country>
+      </Row>
+   
+      <Row>
+          <Code>FNA</Code>
+          <Description>Lungi International Airport </Description>
+          <City>Freetown</City>
+          <Country>Sierra Leone</Country>
+      </Row>
+   
+      <Row>
+          <Code>SIN</Code>
+          <Description>Singapore Changi International Airport </Description>
+          <City>Singapore</City>
+          <Country>Singapore</Country>
+      </Row>
+   
+      <Row>
+          <Code>BTS</Code>
+          <Description>Milan Rastislav Stefanik Airport </Description>
+          <City>Bratislava</City>
+          <Country>Slovak</Country>
+      </Row>
+   
+      <Row>
+          <Code>ILZ</Code>
+          <Description>Žilina Airport </Description>
+          <City>Žilina</City>
+          <Country>Slovakia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KSC</Code>
+          <Description>Košice International Airport  </Description>
+          <City>Košice, Slovakia</City>
+          <Country>Slovakia</Country>
+      </Row>
+   
+      <Row>
+          <Code>LJU</Code>
+          <Description>Ljubljana Airport </Description>
+          <City>Ljubljana</City>
+          <Country>Slovenia</Country>
+      </Row>
+   
+      <Row>
+          <Code>BSA</Code>
+          <Description>Bender Qassim International Airport </Description>
+          <City>Bosaso</City>
+          <Country>Somalia</Country>
+      </Row>
+   
+      <Row>
+          <Code>GGR</Code>
+          <Description>GaAirportListe International Airport </Description>
+          <City>GaAirportListe</City>
+          <Country>Somalia</Country>
+      </Row>
+   
+      <Row>
+          <Code>GLK</Code>
+          <Description>Abdullahi Yusuf International Airport </Description>
+          <City>Galkayo</City>
+          <Country>Somalia</Country>
+      </Row>
+   
+      <Row>
+          <Code>HGA</Code>
+          <Description>Hargeisa International Airport </Description>
+          <City>Hargeisa</City>
+          <Country>Somalia</Country>
+      </Row>
+   
+      <Row>
+          <Code>KMU</Code>
+          <Description>Kismayo Airport </Description>
+          <City>Kismayo</City>
+          <Country>Somalia</Country>
+      </Row>
+   
+      <Row>
+          <Code>MGQ</Code>
+          <Description>Aden Adde International Airport </Description>
+          <City>Mogadishu</City>
+          <Country>Somalia</Country>
+      </Row>
+   
+      <Row>
+          <Code>CPT</Code>
+          <Description>Cape Town International Airport </Description>
+          <City>Cape Town</City>
+          <Country>South Africa</Country>
+      </Row>
+   
+      <Row>
+          <Code>DUR</Code>
+          <Description>King Shaka International Airport </Description>
+          <City>Durban</City>
+          <Country>South Africa</Country>
+      </Row>
+   
+      <Row>
+          <Code>HLA</Code>
+          <Description>Lanseria International Airport </Description>
+          <City>Johannesburg</City>
+          <Country>South Africa</Country>
+      </Row>
+   
+      <Row>
+          <Code>JNB</Code>
+          <Description>OR Tambo International Airport </Description>
+          <City>Johannesburg</City>
+          <Country>South Africa</Country>
+      </Row>
+   
+      <Row>
+          <Code>MQP</Code>
+          <Description>Kruger Mpumalanga International Airport </Description>
+          <City>Nelspruit</City>
+          <Country>South Africa</Country>
+      </Row>
+   
+      <Row>
+          <Code>CJJ</Code>
+          <Description>Cheongju International Airport </Description>
+          <City>Cheongju</City>
+          <Country>South Korea</Country>
+      </Row>
+   
+      <Row>
+          <Code>GMP</Code>
+          <Description>Gimpo International Airport </Description>
+          <City>Seoul</City>
+          <Country>South Korea</Country>
+      </Row>
+   
+      <Row>
+          <Code>SEL</Code>
+          <Description>Seoul Gimpo International Airport </Description>
+          <City>Seoul</City>
+          <Country>South Korea</Country>
+      </Row>
+   
+      <Row>
+          <Code>YNY</Code>
+          <Description>Yangyang International Airport </Description>
+          <City>Yangyang </City>
+          <Country>South Korea</Country>
+      </Row>
+   
+      <Row>
+          <Code>JUB</Code>
+          <Description>Juba International Airport </Description>
+          <City>Juba</City>
+          <Country>South Sudan</Country>
+      </Row>
+   
+      <Row>
+          <Code>ACE</Code>
+          <Description>Lanzarote Airport  </Description>
+          <City>San Bartolomé, Las Palmas</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>AGP</Code>
+          <Description>Málaga Airport </Description>
+          <City>Málaga</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>ALC</Code>
+          <Description>Alicante Elche Airport </Description>
+          <City>Elche</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>BCN</Code>
+          <Description>Barcelona El Prat Airport </Description>
+          <City>Barcelona</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>CQM</Code>
+          <Description>Ciudad Real Central Airport </Description>
+          <City>Ciudad Real</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>FUE</Code>
+          <Description>Fuerteventura Airport </Description>
+          <City>Puerto del Rosario</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>GRO</Code>
+          <Description>Girona–Costa Brava Airport  </Description>
+          <City>Girona</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>GRX</Code>
+          <Description>Federico García Lorca Airport </Description>
+          <City>Granada</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>HSK</Code>
+          <Description>Pirineos Airport </Description>
+          <City>Huesca</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>IBZ </Code>
+          <Description>Ibiza Airport </Description>
+          <City>Ibiza</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>ILD</Code>
+          <Description>Lleida–Alguaire Airport </Description>
+          <City>Lleida</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>LCG </Code>
+          <Description>Alvedro Airport </Description>
+          <City>A Coruña</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>LEI</Code>
+          <Description>Almería International Airport </Description>
+          <City>Almería</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>LPA</Code>
+          <Description>Gran Canaria Airport </Description>
+          <City>Gran Canaria</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>MAD</Code>
+          <Description>Barajas Airport </Description>
+          <City>Madrid</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>MAH</Code>
+          <Description>Menorca Airport </Description>
+          <City>Minorca</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>MJV</Code>
+          <Description>Murcia–San Javier Airport  </Description>
+          <City>San Javier</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>OVD </Code>
+          <Description>Asturias Airport </Description>
+          <City>Asturias</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>PMI</Code>
+          <Description>Palma de Mallorca Airport </Description>
+          <City>Palma de Mallorca</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>REU</Code>
+          <Description>Reus Airport </Description>
+          <City>Reus </City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>SCQ</Code>
+          <Description>Santiago de Compostela Airport </Description>
+          <City>Lavacolla</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>SDR</Code>
+          <Description>Santander Airport </Description>
+          <City>Santander</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>SPC</Code>
+          <Description>La Palma Airport </Description>
+          <City>Santa Cruz de la Palma</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>SVQ</Code>
+          <Description>San Pablo Airport </Description>
+          <City>Seville</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>TFS</Code>
+          <Description>Tenerife South Airport </Description>
+          <City>Tenerife</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>VLC</Code>
+          <Description>Valencia Airport </Description>
+          <City>Valencia</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>VLL</Code>
+          <Description>Valladolid Airport </Description>
+          <City>Villanubla</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>XRY</Code>
+          <Description>Jerez Airport </Description>
+          <City>Jerez de la Frontera</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>ZAZ</Code>
+          <Description>Zaragoza Airport  </Description>
+          <City>Zaragoza</City>
+          <Country>Spain</Country>
+      </Row>
+   
+      <Row>
+          <Code>CMB</Code>
+          <Description>Bandaranaike International Airport </Description>
+          <City>Colombo</City>
+          <Country>Sri Lanka</Country>
+      </Row>
+   
+      <Row>
+          <Code>HRI</Code>
+          <Description>Mattala Rajapaksa International Airport </Description>
+          <City>Mattala</City>
+          <Country>Sri Lanka</Country>
+      </Row>
+   
+      <Row>
+          <Code>KRT</Code>
+          <Description>Khartoum International Airport </Description>
+          <City>Khartoum</City>
+          <Country>Sudan</Country>
+      </Row>
+   
+      <Row>
+          <Code>MTS</Code>
+          <Description>Matsapha Airport </Description>
+          <City>Manzini</City>
+          <Country>Swaziland</Country>
+      </Row>
+   
+      <Row>
+          <Code>ARN</Code>
+          <Description>Stockholm Arlanda International Airport </Description>
+          <City>Stockholm</City>
+          <Country>Sweden</Country>
+      </Row>
+   
+      <Row>
+          <Code>GOT</Code>
+          <Description>Landvetter Airport </Description>
+          <City>Gothenburg </City>
+          <Country>Sweden</Country>
+      </Row>
+   
+      <Row>
+          <Code>GSE</Code>
+          <Description>Göteborg City Airport </Description>
+          <City>Gothenburg</City>
+          <Country>Sweden</Country>
+      </Row>
+   
+      <Row>
+          <Code>LLA</Code>
+          <Description>Luleå Airport </Description>
+          <City>Luleå</City>
+          <Country>Sweden</Country>
+      </Row>
+   
+      <Row>
+          <Code>MMX</Code>
+          <Description>Malmö Airport </Description>
+          <City>Malmö</City>
+          <Country>Sweden</Country>
+      </Row>
+   
+      <Row>
+          <Code>NRK</Code>
+          <Description>Norrköping Airport </Description>
+          <City>Norrköping</City>
+          <Country>Sweden</Country>
+      </Row>
+   
+      <Row>
+          <Code>NYO</Code>
+          <Description>Stockholm Skavsta Airport  </Description>
+          <City>Stockholm</City>
+          <Country>Sweden</Country>
+      </Row>
+   
+      <Row>
+          <Code>UME</Code>
+          <Description>Umeå Airport </Description>
+          <City>Umeå</City>
+          <Country>Sweden</Country>
+      </Row>
+   
+      <Row>
+          <Code>VBY</Code>
+          <Description>Visby Airport </Description>
+          <City>Visby</City>
+          <Country>Sweden</Country>
+      </Row>
+   
+      <Row>
+          <Code>VST</Code>
+          <Description>Stockholm Västerås Airport </Description>
+          <City>Västerås</City>
+          <Country>Sweden</Country>
+      </Row>
+   
+      <Row>
+          <Code>VXO</Code>
+          <Description>Växjö Småland Airport </Description>
+          <City>Växjö</City>
+          <Country>Sweden</Country>
+      </Row>
+   
+      <Row>
+          <Code>ACH</Code>
+          <Description>St. Gallen Altenrhein Airport </Description>
+          <City>Altenrhein</City>
+          <Country>Switzerland</Country>
+      </Row>
+   
+      <Row>
+          <Code>BRN</Code>
+          <Description>Bern Airport </Description>
+          <City>Belp</City>
+          <Country>Switzerland</Country>
+      </Row>
+   
+      <Row>
+          <Code>BSL</Code>
+          <Description>EuroAirport Basel Mulhouse Freiburg </Description>
+          <City>Saint Louis</City>
+          <Country>Switzerland</Country>
+      </Row>
+   
+      <Row>
+          <Code>GVA</Code>
+          <Description>Geneva Cointrin International Airport </Description>
+          <City>Geneva</City>
+          <Country>Switzerland</Country>
+      </Row>
+   
+      <Row>
+          <Code>ZRH</Code>
+          <Description>Zurich International Airport </Description>
+          <City>Zurich</City>
+          <Country>Switzerland</Country>
+      </Row>
+   
+      <Row>
+          <Code>ALP</Code>
+          <Description>Aleppo International Airport </Description>
+          <City>Aleppo</City>
+          <Country>Syria</Country>
+      </Row>
+   
+      <Row>
+          <Code>DAM</Code>
+          <Description>Damascus International Airport </Description>
+          <City>Damascus</City>
+          <Country>Syria</Country>
+      </Row>
+   
+      <Row>
+          <Code>LTK</Code>
+          <Description>Bassel Al-Assad International Airport </Description>
+          <City> Latakia</City>
+          <Country>Syria</Country>
+      </Row>
+   
+      <Row>
+          <Code>TPE</Code>
+          <Description>Chiang Kai-Shek International Airport </Description>
+          <City>Taipei</City>
+          <Country>Taiwan</Country>
+      </Row>
+   
+      <Row>
+          <Code>TSA</Code>
+          <Description>Taipei Songshan Airport </Description>
+          <City> Songshan District, Taipei</City>
+          <Country>Taiwan</Country>
+      </Row>
+   
+      <Row>
+          <Code>DYU</Code>
+          <Description>Dushanbe International Airport </Description>
+          <City>Dushanbe</City>
+          <Country>Tajikistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>LBD</Code>
+          <Description>Khujand Airport </Description>
+          <City>Khujand</City>
+          <Country>Tajikistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>DAR</Code>
+          <Description>Julius Nyerere International Airport </Description>
+          <City>Dar es Salaam</City>
+          <Country>Tanzania</Country>
+      </Row>
+   
+      <Row>
+          <Code>JRO</Code>
+          <Description>Kilimanjaro International Airport </Description>
+          <City>Hai District</City>
+          <Country>Tanzania</Country>
+      </Row>
+   
+      <Row>
+          <Code>ZNZ</Code>
+          <Description>Abeid Amani Karume International Airport </Description>
+          <City>Unguja, Zanzibar</City>
+          <Country>Tanzania</Country>
+      </Row>
+   
+      <Row>
+          <Code>BKK</Code>
+          <Description>Bangkok International Airport </Description>
+          <City>Bangkok</City>
+          <Country>Thailand</Country>
+      </Row>
+   
+      <Row>
+          <Code>CNX</Code>
+          <Description>Chiang Mai International Airport </Description>
+          <City>Chiang Mai</City>
+          <Country>Thailand</Country>
+      </Row>
+   
+      <Row>
+          <Code>HDY</Code>
+          <Description>Hat Yai International Airport </Description>
+          <City>Hat Yai</City>
+          <Country>Thailand</Country>
+      </Row>
+   
+      <Row>
+          <Code>HKT</Code>
+          <Description>Phuket International Airport </Description>
+          <City>Phuket</City>
+          <Country>Thailand</Country>
+      </Row>
+   
+      <Row>
+          <Code>CEI</Code>
+          <Description>Chiang Rai International Airport </Description>
+          <City>Chiang Rai</City>
+          <Country>Thailand </Country>
+      </Row>
+   
+      <Row>
+          <Code>DMK</Code>
+          <Description>Don Mueang International Airport </Description>
+          <City>Bangkok</City>
+          <Country>Thailand </Country>
+      </Row>
+   
+      <Row>
+          <Code>URT</Code>
+          <Description>Surat Thani Airport </Description>
+          <City>Surat Thani</City>
+          <Country>Thailand </Country>
+      </Row>
+   
+      <Row>
+          <Code>USM</Code>
+          <Description>Samui Airport </Description>
+          <City>Tambon Bo Phut</City>
+          <Country>Thailand </Country>
+      </Row>
+   
+      <Row>
+          <Code>UTH</Code>
+          <Description>Udon Thani International Airport </Description>
+          <City>Udon Thani</City>
+          <Country>Thailand </Country>
+      </Row>
+   
+      <Row>
+          <Code>UTP</Code>
+          <Description>U-Tapao International Airport </Description>
+          <City>Pattaya</City>
+          <Country>Thailand </Country>
+      </Row>
+   
+      <Row>
+          <Code>LFW</Code>
+          <Description>Tokoin Airport </Description>
+          <City>Lomé</City>
+          <Country>Togo</Country>
+      </Row>
+   
+      <Row>
+          <Code>DJE</Code>
+          <Description>Zarzis International Airport </Description>
+          <City>Djerba</City>
+          <Country>Tunisia</Country>
+      </Row>
+   
+      <Row>
+          <Code>MIR</Code>
+          <Description>Habib Bourguiba International Airport </Description>
+          <City>Monastir</City>
+          <Country>Tunisia</Country>
+      </Row>
+   
+      <Row>
+          <Code>NBE</Code>
+          <Description>Hammamet International Airport </Description>
+          <City>Enfidha</City>
+          <Country>Tunisia</Country>
+      </Row>
+   
+      <Row>
+          <Code>SFA</Code>
+          <Description>Thyna International Airport </Description>
+          <City>Sfax</City>
+          <Country>Tunisia</Country>
+      </Row>
+   
+      <Row>
+          <Code>TBJ</Code>
+          <Description>Ain Draham International Airport </Description>
+          <City>Tabarka</City>
+          <Country>Tunisia</Country>
+      </Row>
+   
+      <Row>
+          <Code>TOE</Code>
+          <Description>Nefta International Airport </Description>
+          <City>Tozeur</City>
+          <Country>Tunisia</Country>
+      </Row>
+   
+      <Row>
+          <Code>TUN</Code>
+          <Description>Carthage International Airport </Description>
+          <City>Tunis</City>
+          <Country>Tunisia</Country>
+      </Row>
+   
+      <Row>
+          <Code>ADA</Code>
+          <Description>Adana Şakirpaşa Airport </Description>
+          <City>Adana, Adana Province, Turkey</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>ADB</Code>
+          <Description>Adnan Menderes Airport </Description>
+          <City>Gaziemir</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>ASR</Code>
+          <Description>Erkilet International Airport </Description>
+          <City>Kayseri</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>AYT</Code>
+          <Description>Antalya Airport </Description>
+          <City>Antalya</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>BJV</Code>
+          <Description>Milas Bodrum Airport </Description>
+          <City>Bodrum</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>DLM</Code>
+          <Description>Dalaman Airport </Description>
+          <City>Dalaman </City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>ESB</Code>
+          <Description>Esenboğa International Airport </Description>
+          <City>Ankara</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>GZT</Code>
+          <Description>Oğuzeli Airport </Description>
+          <City>Gaziantep</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>IST</Code>
+          <Description>Istanbul Atatürk International Airport </Description>
+          <City>Istanbul</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>KYA</Code>
+          <Description>Konya Airport </Description>
+          <City>Konya</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>KZR</Code>
+          <Description>Zafer Airport </Description>
+          <City>Altıntaş, Kütahya</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>MLX</Code>
+          <Description>Malatya Erhaç Airport </Description>
+          <City> Malatya</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>NAV</Code>
+          <Description>Nevşehir Kapadokya Airport </Description>
+          <City>Nevşehir</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>ONQ</Code>
+          <Description>Zonguldak Airport </Description>
+          <City>Zonguldak</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>SAW</Code>
+          <Description>Sabiha Gökçen International Airport </Description>
+          <City>Pendik, İstanbul</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>SZF</Code>
+          <Description>Samsun-Çarşamba Airport </Description>
+          <City>Samsun</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>TZX</Code>
+          <Description>Trabzon Airport </Description>
+          <City>Trabzon</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>YEI</Code>
+          <Description>Yenişehir Airport </Description>
+          <City>Yenişehir, Bursa</City>
+          <Country>Turkey</Country>
+      </Row>
+   
+      <Row>
+          <Code>ASB</Code>
+          <Description>Ashgabat International Airport </Description>
+          <City>Ashgabat</City>
+          <Country>Turkmenistan</Country>
+      </Row>
+   
+      <Row>
+          <Code>EBB</Code>
+          <Description>Entebbe International Airport </Description>
+          <City>Entebbe</City>
+          <Country>Uganda</Country>
+      </Row>
+   
+      <Row>
+          <Code>CWC</Code>
+          <Description>Chernivtsi International Airport </Description>
+          <City>Chernivtsi</City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>DNK</Code>
+          <Description>Dnipropetrovsk International Airport </Description>
+          <City>Dnipropetrovsk </City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>DOK</Code>
+          <Description>Donetsk International Airport </Description>
+          <City>Donetsk </City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>HRK</Code>
+          <Description>Kharkiv International Airport </Description>
+          <City>Kharkiv</City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>IEV</Code>
+          <Description>Kyiv International Airport (Zhuliany )</Description>
+          <City>Zhuliany</City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>IFO</Code>
+          <Description>Ivano-Frankivsk International Airport </Description>
+          <City>Ivano-Frankivsk</City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>KBP</Code>
+          <Description>Boryspil International Airport </Description>
+          <City>Boryspil</City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>KWG</Code>
+          <Description>Kryvyi Rih International Airport </Description>
+          <City>Kryvyi Rih</City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>LWO</Code>
+          <Description>Lviv Danylo Halytskyi International Airport </Description>
+          <City>Lviv</City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>NLV</Code>
+          <Description>Mykolaiv Airport </Description>
+          <City>Mykolaiv</City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>ODS</Code>
+          <Description>Odessa International Airport </Description>
+          <City>Odessa</City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>OZH</Code>
+          <Description>Zaporizhia International Airport </Description>
+          <City>Zaporizhia</City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>SIP</Code>
+          <Description>Simferopol International Airport </Description>
+          <City>Simferopol</City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>VSG</Code>
+          <Description>Luhansk International Airport </Description>
+          <City>Luhansk </City>
+          <Country>Ukraine</Country>
+      </Row>
+   
+      <Row>
+          <Code>ABZ</Code>
+          <Description>Aberdeen Airport </Description>
+          <City>Dyce, Aberdeen</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>BFS</Code>
+          <Description>Belfast International Airport </Description>
+          <City>Belfast</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>BHD</Code>
+          <Description>George Best Belfast City Airport </Description>
+          <City>Port of Belfast</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>BOH</Code>
+          <Description>Bournemouth Airport </Description>
+          <City>Hurn, Dorset</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>BRS</Code>
+          <Description>Bristol Airport </Description>
+          <City>Lulsgate Bottom, North Somerset</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>CWL</Code>
+          <Description>Cardiff Airport </Description>
+          <City>Rhoose, Vale of Glamorgan</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>DSA</Code>
+          <Description>Robin Hood Airport Doncaster Sheffield </Description>
+          <City>Finningley, South Yorkshire</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>EMA</Code>
+          <Description>East Midlands Airport </Description>
+          <City>Castle Donington, Leicestershire</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>EXT</Code>
+          <Description>Exeter International Airport </Description>
+          <City>East Devon</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>GLA</Code>
+          <Description>Glasgow Airport </Description>
+          <City>Greater Glasgow</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>INV</Code>
+          <Description>Inverness Airport </Description>
+          <City>Dalcross, Highland</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>LBA</Code>
+          <Description>Leeds Bradford International Airport </Description>
+          <City>Yeadon, West Yorkshire, England</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>LCY</Code>
+          <Description>London City Airport </Description>
+          <City>Silvertown</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>LDY</Code>
+          <Description>City of Derry Airport </Description>
+          <City>Eglinton, County Londonderry, Northern Ireland</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>LPL</Code>
+          <Description>Liverpool John Lennon Airport </Description>
+          <City>Speke, Liverpool</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>LTN</Code>
+          <Description>Luton Airport </Description>
+          <City>Luton, Bedfordshire</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>MME</Code>
+          <Description>Durham Tees Valley Airport </Description>
+          <City>Darlington, England</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>NCL</Code>
+          <Description>Newcastle Airport </Description>
+          <City>Newcastle</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>NQY</Code>
+          <Description>Newquay Cornwall Airport </Description>
+          <City> Mawgan in Pydar, Cornwall</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>NWI</Code>
+          <Description>Norwich International Airport </Description>
+          <City>Norwich, Norfolk</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>SEN</Code>
+          <Description>London Southend Airport </Description>
+          <City> Rochford, Essex</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>SOU</Code>
+          <Description>Southampton Airport </Description>
+          <City>Eastleigh, Hampshire</City>
+          <Country>United Kingdom</Country>
+      </Row>
+   
+      <Row>
+          <Code>ABQ</Code>
+          <Description>Albuquerque International Sunport Atlanta </Description>
+          <City>Georgia</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>ALB</Code>
+          <Description>Albany International Airport Albany </Description>
+          <City>New York</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>ANU</Code>
+          <Description>V. C. Bird International Airport </Description>
+          <City>Antigua and Barbuda</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>ATL</Code>
+          <Description>Hartsfield Jackson Atlanta International Airport Atlanta </Description>
+          <City>Georgia</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>AUA</Code>
+          <Description>Queen Beatrix International Airport </Description>
+          <City>Oranjestad, Aruba</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>AUS</Code>
+          <Description>Austin Bergstrom Airport Austin </Description>
+          <City>Texas</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>AXA</Code>
+          <Description>Clayton J. Lloyd International Airport </Description>
+          <City>Anguilla</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>AZS</Code>
+          <Description>Samaná El Catey International Airport </Description>
+          <City>Samaná</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>BGI</Code>
+          <Description>Grantley Adams International AirporT </Description>
+          <City>Seawell </City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>BNA</Code>
+          <Description>Nashville International Airport Nashville </Description>
+          <City>Tennessee</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>BON</Code>
+          <Description>Flamingo International Airport </Description>
+          <City>Kralendijk, Bonaire</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>BOS</Code>
+          <Description>Boston Logan International Airport Boston </Description>
+          <City>Massachusetts</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>BQN</Code>
+          <Description>Rafael Hernández Airport </Description>
+          <City>Aguadilla </City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>BRX</Code>
+          <Description>María Montez International Airport </Description>
+          <City>Barahona</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>BWI</Code>
+          <Description>Baltimore Washington International Airport Baltimore </Description>
+          <City>Maryland</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>CCC</Code>
+          <Description>Jardines del Rey Airport </Description>
+          <City>Cayo Coco</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>CCZ</Code>
+          <Description>Chub Cay International Airport </Description>
+          <City>Bahamas</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>CLE</Code>
+          <Description>Cleveland-Hopkins International Airport Cleveland </Description>
+          <City>Ohio</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>CLT</Code>
+          <Description>Charlotte Douglas International Airport Charlotte </Description>
+          <City>North Carolina</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>CUR</Code>
+          <Description>Hato International Airport </Description>
+          <City>Willemstad, Curaçao</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>CVG</Code>
+          <Description>Cincinnati Northern Kentucky International Airport Cincinnati </Description>
+          <City>Ohio</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>DCA</Code>
+          <Description>Ronald Reagan Washington National Airport Washington </Description>
+          <City>DC</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>DEN</Code>
+          <Description>Denver International Airport Denver </Description>
+          <City>Colorado</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>DFW</Code>
+          <Description>Dallas-Fort Worth International Airport Dallas </Description>
+          <City>Texas</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>DOM</Code>
+          <Description>Melville Hall Airport </Description>
+          <City>Roseau</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>DTW</Code>
+          <Description>Detroit Metropolitan Wayne County Airport Detroit </Description>
+          <City>Michigan</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>EIS</Code>
+          <Description>Terrance B. Lettsome International Airport </Description>
+          <City>British Virgin Islands</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>EWR</Code>
+          <Description>Newark Liberty International Airport Newark </Description>
+          <City>New Jersey</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>FDF</Code>
+          <Description>Martinique Aimé Césaire International Airport </Description>
+          <City>Fort-de-France</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>FLL</Code>
+          <Description>Fort Lauderdale Hollywood International Airport Ft. Lauderdale </Description>
+          <City>Florida</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>FPO</Code>
+          <Description>Grand Bahama International Airport </Description>
+          <City>Freeport</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>GCM</Code>
+          <Description>Owen Roberts International Airport </Description>
+          <City>Cayman Islands</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>GGT</Code>
+          <Description>Exuma International Airport </Description>
+          <City>Bahamas</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>GND</Code>
+          <Description>Maurice Bishop International Airport </Description>
+          <City>Grenada </City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>HAV</Code>
+          <Description>José Martí International Airport </Description>
+          <City>Havana</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>HNL</Code>
+          <Description>Honolulu International Airport Honolulu </Description>
+          <City>Hawaii</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>HOG</Code>
+          <Description>Frank País Airport </Description>
+          <City>Holguín</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>IAD</Code>
+          <Description>Washington Dulles International Airport Washington </Description>
+          <City>DC</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>IAH</Code>
+          <Description>Houston-Bush Intercontinental Airport Houston </Description>
+          <City>Texas</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>IND</Code>
+          <Description>Indianapolis International Airport Indianapolis </Description>
+          <City>Indiana</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>JAX</Code>
+          <Description>Jacksonville International Airport Jacksonville </Description>
+          <City>Florida</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>JFK</Code>
+          <Description>New York-John F. Kennedy International Airport New York </Description>
+          <City>New York</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>KIN</Code>
+          <Description>Norman Manley International Airport </Description>
+          <City>Kingston </City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>LAS</Code>
+          <Description>Las Vegas McCarran International Airport Las Vegas </Description>
+          <City>Nevada</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>LAX</Code>
+          <Description>Los Angeles International Airport Los Angeles </Description>
+          <City>California</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>LGA</Code>
+          <Description>LaGuardia International Airport New York </Description>
+          <City>New York</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>LRM</Code>
+          <Description>La Romana International Airport </Description>
+          <City>La Romana </City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>MBJ</Code>
+          <Description>Sangster International Airport </Description>
+          <City>Montego Bay</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>MCI</Code>
+          <Description>Kansas City International Airport Kansas City </Description>
+          <City>Missouri</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>MCO</Code>
+          <Description>Orlando International Airport Orlando </Description>
+          <City>Florida</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>MDW</Code>
+          <Description>Chicago Midway Airport Chicago </Description>
+          <City>Illinois</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>MEM</Code>
+          <Description>Memphis International Airport Memphis </Description>
+          <City>Tennessee</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>MIA</Code>
+          <Description>Miami International Airport Miami </Description>
+          <City>Florida</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>MKE</Code>
+          <Description>General Mitchell International Airport Milwaukee </Description>
+          <City>Wisconsin</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>MNI</Code>
+          <Description>John A. Osborne Airport </Description>
+          <City>Gerald's </City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>MSP</Code>
+          <Description>Minneapolis/St. Paul International Airport Minneapolis </Description>
+          <City>Minnesota</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>MSY</Code>
+          <Description>Louis Armstrong New Orleans International Airport New Orleans </Description>
+          <City>Louisiana</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>NAS</Code>
+          <Description>Lynden Pindling International Airport </Description>
+          <City>Nassau</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>OAK</Code>
+          <Description>Oakland International Airport Oakland </Description>
+          <City>California</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>ONT</Code>
+          <Description>Ontario International Airport Ontario </Description>
+          <City>California</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>ORD</Code>
+          <Description>Chicago O'Hare International Airport Chicago </Description>
+          <City>Illinois</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>PAP</Code>
+          <Description>Toussaint Louverture International Airport </Description>
+          <City>Port-au-Prince</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>PBI</Code>
+          <Description>Palm Beach International Airport West Palm Beach </Description>
+          <City>FL</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>PDX</Code>
+          <Description>Portland International Airport Portland </Description>
+          <City>Oregon</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>PHL</Code>
+          <Description>Philadelphia International Airport Philadelphia </Description>
+          <City>Pennsylvania</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>PHX</Code>
+          <Description>Phoenix Sky Harbor International Airport Phoenix </Description>
+          <City>Arizona</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>PIT</Code>
+          <Description>Pittsburgh International Airport Pittsburgh </Description>
+          <City>Pennsylvania</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>POP</Code>
+          <Description>Gregorio Luperón International Airport </Description>
+          <City>San Felipe de Puerto Plata</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>PTP</Code>
+          <Description>Pointe-à-Pitre International Airport </Description>
+          <City>Abymes</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>PUJ</Code>
+          <Description>Punta Cana International Airport </Description>
+          <City>Punta Cana</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>RDU</Code>
+          <Description>Raleigh-Durham International Airport Raleigh </Description>
+          <City>North Carolina</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>RIC</Code>
+          <Description>Richmond International Airport Richmond </Description>
+          <City>Virginia</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>RNO</Code>
+          <Description>Reno Tahoe International Airport Reno </Description>
+          <City>Nevada</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>RSD</Code>
+          <Description>Rock Sound International Airport </Description>
+          <City>Bahamas</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>SAN</Code>
+          <Description>San Diego International Airport San Diego </Description>
+          <City>California</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>SAT</Code>
+          <Description>San Antonio International Airport San Antonio </Description>
+          <City>Texas</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>SDF</Code>
+          <Description>Louisville Intl-Standiford Field Louisville </Description>
+          <City>Kentucky</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>SDQ</Code>
+          <Description>Las Américas International Airport </Description>
+          <City>Santo Domingo</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>SEA</Code>
+          <Description>Seattle-Tacoma International Airport Seattle </Description>
+          <City>Washington</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>SFO</Code>
+          <Description>San Francisco International Airport San Francisco </Description>
+          <City>California</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>SJC</Code>
+          <Description>Norman Y. Mineta San José International Airport San José </Description>
+          <City>California</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>SJU</Code>
+          <Description>Luis Muñoz Marín International Airport </Description>
+          <City>San Juan</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>SLC</Code>
+          <Description>Salt Lake City International Airport Salt Lake City </Description>
+          <City>Utah</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>SMF</Code>
+          <Description>Sacramento International Airport Sacramento </Description>
+          <City>California</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>SNA</Code>
+          <Description>John Wayne Orange County Airport Costa Mesa </Description>
+          <City>California</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>SNU</Code>
+          <Description>Abel Santamaría Airport </Description>
+          <City>Santa Clara</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>STI</Code>
+          <Description>Cibao International Airport </Description>
+          <City>Santiago de los Caballeros</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>STL</Code>
+          <Description>St. Louis-Lambert International Airport St. Louis </Description>
+          <City>Missouri</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>SXM</Code>
+          <Description>Princess Juliana International Airport </Description>
+          <City>Philipsburg, Sint Maarten</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>TPA</Code>
+          <Description>Tampa International Airport Tampa </Description>
+          <City>Florida</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>VRA</Code>
+          <Description>Juan Gualberto Gómez Airport </Description>
+          <City>Varadero</City>
+          <Country>USA</Country>
+      </Row>
+   
+      <Row>
+          <Code>CXR</Code>
+          <Description>Cam Ranh International Airport </Description>
+          <City>Khanh Hoa</City>
+          <Country>Vietnam</Country>
+      </Row>
+   
+      <Row>
+          <Code>DAD</Code>
+          <Description>Da Nang International Airport </Description>
+          <City>Da Nang</City>
+          <Country>Vietnam</Country>
+      </Row>
+   
+      <Row>
+          <Code>HAN</Code>
+          <Description>Noi Bai International Airport </Description>
+          <City>Hanoi</City>
+          <Country>Vietnam</Country>
+      </Row>
+   
+      <Row>
+          <Code>HPH</Code>
+          <Description>Cat Bi International Airport </Description>
+          <City>Hai Phong</City>
+          <Country>Vietnam</Country>
+      </Row>
+   
+      <Row>
+          <Code>HUI</Code>
+          <Description>Phu Bai International Airport </Description>
+          <City>Hue</City>
+          <Country>Vietnam</Country>
+      </Row>
+   
+      <Row>
+          <Code>PQC</Code>
+          <Description>Phu Quoc International Airport </Description>
+          <City> Phú Quốc</City>
+          <Country>Vietnam</Country>
+      </Row>
+   
+      <Row>
+          <Code>SGN</Code>
+          <Description>Tan Son Nhat International Airport </Description>
+          <City>Ho Chi Minh City</City>
+          <Country>Vietnam</Country>
+      </Row>
+   
+      <Row>
+          <Code>VCA</Code>
+          <Description>Can Tho International Airport </Description>
+          <City>Can Tho</City>
+          <Country>Vietnam</Country>
+      </Row>
+   
+      <Row>
+          <Code>VCL</Code>
+          <Description>Chu Lai International Airport </Description>
+          <City>Quang Nam</City>
+          <Country>Vietnam</Country>
+      </Row>
+   
+      <Row>
+          <Code>EUN</Code>
+          <Description>Hassan I Airport </Description>
+          <City>El Aaiún</City>
+          <Country>Western Sahara</Country>
+      </Row>
+   
+      <Row>
+          <Code>VIL</Code>
+          <Description>Dakhla Airport </Description>
+          <City>Dakhla</City>
+          <Country>Western Sahara</Country>
+      </Row>
+   
+      <Row>
+          <Code>LUN</Code>
+          <Description>Kenneth Kaunda International Airport </Description>
+          <City>Lusaka</City>
+          <Country>Zambia</Country>
+      </Row>
+   
+      <Row>
+          <Code>LVI</Code>
+          <Description>Harry Mwanga Nkumbula International Airport </Description>
+          <City>Livingstone</City>
+          <Country>Zambia</Country>
+      </Row>
+   
+      <Row>
+          <Code>NLA</Code>
+          <Description>Simon Mwansa Kapwepwe Airport </Description>
+          <City>Ndola</City>
+          <Country>Zambia</Country>
+      </Row>
+   
+      <Row>
+          <Code>BUQ </Code>
+          <Description>Joshua Mqabuko Nkomo International Airport </Description>
+          <City>Bulawayo</City>
+          <Country>Zimbabwe</Country>
+      </Row>
+   
+      <Row>
+          <Code>HRE</Code>
+          <Description>Harare International Airport </Description>
+          <City>Harare</City>
+          <Country>Zimbabwe</Country>
+      </Row>
+   
+      <Row>
+          <Code>VFA </Code>
+          <Description>Victoria Falls Airport </Description>
+          <City>Victoria Falls</City>
+          <Country>Zimbabwe</Country>
+      </Row>
+   
+      <Row>
+          <Code>DXB</Code>
+          <Description>Dubai International Airport</Description>
+          <City>Dubai</City>
+          <Country>UAE</Country>
+      </Row>
+   
+      <Row>
+          <Code>DWC</Code>
+          <Description>Al Maktoum International Airport </Description>
+          <City>Dubai</City>
+          <Country>UAE</Country>
+      </Row>
+   
+      <Row>
+          <Code>BAH</Code>
+          <Description>Bahrain International Airport</Description>
+          <City>Al Muharraq</City>
+          <Country>Bahrain</Country>
+      </Row>
+   
+      <Row>
+          <Code>AUH</Code>
+          <Description>Abu Dhabi International Airport</Description>
+          <City>Abu Dhabi</City>
+          <Country>UAE</Country>
+      </Row>
+   
+      <Row>
+          <Code>SHJ</Code>
+          <Description>Sharjah International Airport</Description>
+          <City>Sharjah</City>
+          <Country>UAE</Country>
+      </Row>
+   
+      <Row>
+          <Code>AAN</Code>
+          <Description>Al Ain International Airport</Description>
+          <City>Al Ain</City>
+          <Country>UAE</Country>
+      </Row>
+   
+      <Row>
+          <Code>FJR</Code>
+          <Description>Fujairah International Airport</Description>
+          <City>Fujairah</City>
+          <Country>UAE</Country>
+      </Row>
+   
+      <Row>
+          <Code>ADE</Code>
+          <Description>Aden International Airport</Description>
+          <City>Aden</City>
+          <Country>Yemen</Country>
+      </Row>
+   
+      <Row>
+          <Code>RIY</Code>
+          <Description>Riyan Airport</Description>
+          <City>Mukalla</City>
+          <Country>Yemen</Country>
+      </Row>
+   
+      <Row>
+          <Code>SAH</Code>
+          <Description>Sana'a International Airport</Description>
+          <City>Sana'a</City>
+          <Country>Yemen</Country>
+      </Row>
+   
+      <Row>
+          <Code>TAI</Code>
+          <Description>Ta'izz International Airport</Description>
+          <City>Ta'izz</City>
+          <Country>Yemen</Country>
+      </Row>
+   
+      <Row>
+          <Code>HBE</Code>
+          <Description>Amiryah West Airport </Description>
+          <City>Alexandria</City>
+          <Country>Egypt</Country>
+      </Row>
+   
+      <Row>
+          <Code>AJU</Code>
+          <Description>Santa Maria Airport</Description>
+          <City>Aracaju</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>BEL</Code>
+          <Description>Val de Cans-Júlio Cezar Ribeiro International Airport</Description>
+          <City>Belém</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>CNF</Code>
+          <Description>Tancredo Neves International Airport</Description>
+          <City>Belo Horizonte/Confins</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>BSB</Code>
+          <Description>Pres. Juscelino Kubitschek International Airport</Description>
+          <City>Brasília</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>CGR</Code>
+          <Description>Campo Grande International Airport</Description>
+          <City>Campo Grande</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>CGB</Code>
+          <Description>Mal. Rondon International Airport</Description>
+          <City>Cuiabá/Várzea Grande</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>CWB</Code>
+          <Description>Afonso Pena International Airport</Description>
+          <City>Curitiba/São José dos Pinhais</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>FLN</Code>
+          <Description>Florianópolis International Airport (Hercílio Luz)</Description>
+          <City>Florianópolis</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>FOR</Code>
+          <Description>Pinto Martins – Fortaleza International Airport</Description>
+          <City>Fortaleza</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>IGU</Code>
+          <Description>Cataratas International Airport</Description>
+          <City>Foz do Iguaçu</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>GYN</Code>
+          <Description>Santa Genoveva Airport</Description>
+          <City>Goiânia</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>JPA</Code>
+          <Description>Pres. Castro Pinto International Airport</Description>
+          <City>João Pessoa/Bayeux</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>LDB</Code>
+          <Description>Gov. José Richa Airport</Description>
+          <City>Londrina</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>MCZ</Code>
+          <Description>Zumbi dos Palmares International Airport (Palmares)</Description>
+          <City>Maceió</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>MAO</Code>
+          <Description>Brig. Eduardo Gomes International Airport</Description>
+          <City>Manaus</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>NAT</Code>
+          <Description>Gov. Aluízio Alves International Airport</Description>
+          <City>Natal/São Gonçalo do Amarante</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>POA</Code>
+          <Description>Salgado Filho International Airport</Description>
+          <City>Porto Alegre</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>REC</Code>
+          <Description>Guararapes-Gilberto Freyre International Airport</Description>
+          <City>Recife</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>RAO</Code>
+          <Description>Dr. Leite Lopes Airport</Description>
+          <City>Ribeirão Preto</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>GIG</Code>
+          <Description>Galeão-Antonio Carlos Jobim International Airport</Description>
+          <City>Rio de Janeiro</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>SSA</Code>
+          <Description>Dep. Luís Eduardo Magalhães International Airport (2 de Julho)</Description>
+          <City>Salvador da Bahia</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>SLZ</Code>
+          <Description>Mal. Cunha Machado International Airport (Tirirical)</Description>
+          <City>São Luís</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>GRU</Code>
+          <Description>Gov. André Franco Montoro International Airport (Cumbica)</Description>
+          <City>São Paulo/Guarulhos</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>UDI</Code>
+          <Description>Ten. Cel. Av. César Bombonato Airport</Description>
+          <City>Uberlândia</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>VIX</Code>
+          <Description>Eurico de Aguiar Salles Airport (Goiabeiras)</Description>
+          <City>Vitória</City>
+          <Country>Brazil</Country>
+      </Row>
+   
+      <Row>
+          <Code>KIV</Code>
+          <Description>Chișinău International Airport</Description>
+          <City>Chișinău</City>
+          <Country>Moldova</Country>
+      </Row>
+  
+</Root>
