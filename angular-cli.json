@@ -18,7 +18,6 @@
       "prefix": "app",
       "mobile": false,
       "styles": [
-        "../node_modules/bootstrap/dist/css/bootstrap.css",
         "styles.css"
       ],
       "scripts": [],
@@ -42,6 +41,9 @@
     }
   },
   "defaults": {
+    "serve": {
+      "port": 1300
+    },
     "styleExt": "css",
     "prefixInterfaces": false,
     "inline": {

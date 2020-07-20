@@ -4,12 +4,16 @@ import { AuthenticatedUserComponent } from './authenticated-user/authenticated-u
 
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { CountryListComponent } from './country-list/country-list.component';
+import { CountryScoreComponent } from './country-score/country-score.component';
 import { CountryDetailComponent } from './country-detail/country-detail.component';
 import { CountryMaintComponent } from './country-maint/country-maint.component';
 import { SettingsComponent } from './settings/settings.component';
+import { SettingsMaintComponent } from './settings-maint/settings-maint.component';
 import { SignInComponent } from '../fw/users/sign-in/sign-in.component';
 import { RegisterUserComponent } from '../fw/users/register-user/register-user.component';
 import { AuthGuard } from './services/auth-guard.service';
+import { TextEditor } from './editor/text-editor';
+import { BarChartDemoComponent } from './chartjs/bar-chart-demo';
 
 export const appRoutes: Routes = [  
   { path: 'signin', component: SignInComponent },
@@ -19,11 +23,17 @@ export const appRoutes: Routes = [
       { path: '', canActivateChild: [AuthGuard],
         children: [
           { path: '', redirectTo: 'dashboard', pathMatch: 'full' },
+          { path: 'lazy', loadChildren: './lazy/lazy.module#LazyModule' },
           { path: 'dashboard', component: DashboardComponent },
           { path: 'country-list/:count', component: CountryListComponent },
+          { path: 'country-score/:count', component: CountryScoreComponent },
           { path: 'country-detail/:id/:operation', component: CountryDetailComponent },
           { path: 'country-maint', component: CountryMaintComponent },
+          { path: 'country-maint', component: CountryMaintComponent },
           { path: 'settings', component: SettingsComponent },
+          { path: 'settings-maint', component: SettingsMaintComponent },
+          { path: 'editor', component: TextEditor },
+          { path: 'chartjs', component: BarChartDemoComponent },
         ] }
     ] },
   { path: '', component: SignInComponent },

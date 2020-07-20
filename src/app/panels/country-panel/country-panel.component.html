@@ -11,11 +11,14 @@
   <div class="epi-index">
     <span>{{ country.epiIndex }}</span>
   </div>
+   <div class="epi-index">
+    <span>{{ country.temp | tempConvert: "celsius":1 }}</span>
+  </div>
 </div>
 <div *screenBelowLarge class="group-small">
   <div class="title-group-small">
     <div class="index-small">
-      <span>{{ index }}</span>
+      <span>{{ index}}</span>
     </div>
     <div class="country-name-small">
       <span>{{ country.name }}</span>

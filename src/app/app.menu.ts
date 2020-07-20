@@ -33,6 +33,19 @@ export let initialMenuItems: Array<MenuItem> = [
         ],
     },
     {
+        text: 'Countries-Score',
+        icon: 'glyphicon-flag',
+        route: null,
+        submenu: [
+           {
+                text: 'All',
+                icon: 'glyphicon-flag',
+                route: 'authenticated/country-score/0',
+                submenu: null
+            }
+        ],
+    },
+    {
         text: 'Maintenance',
         icon: 'glyphicon-wrench',
         route: null,
@@ -47,6 +60,18 @@ export let initialMenuItems: Array<MenuItem> = [
                 text: 'Settings',
                 icon: 'glyphicon-cog',
                 route: 'authenticated/settings',
+                submenu: null
+            },
+             {
+                text: 'Settings Maint',
+                icon: 'glyphicon-cog',
+                route: 'authenticated/settings-maint',
+                submenu: null
+            },
+            {
+                text: 'bar-chart-demo',
+                icon: 'glyphicon-flag',
+                route: 'authenticated/chartjs',
                 submenu: null
             }
         ]

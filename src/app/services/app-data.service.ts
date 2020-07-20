@@ -1,26 +1,38 @@
 import { Injectable } from '@angular/core';
-
+import { Http } from '@angular/http';
 import { UserService } from './user.service';
 import { Country } from '../view-models/country';
+import { Score } from '../view-models/score';
+
 import { Observable } from 'rxjs/Observable';
+
 
 @Injectable()
 export class AppDataService {
 
   private countries : Array<Country> = [
-    { id: 1, name:"Switzerland",  epiIndex: 87.67 },
-    { id: 2, name:"Luxembourg",   epiIndex: 83.29 },
-    { id: 3, name:"Australia", epiIndex: 82.4 },
-    { id: 4, name:"Singapore", epiIndex: 81.78 },
-    { id: 5, name:"Czech-Republic", epiIndex: 81.47 },
-    { id: 6, name:"Germany", epiIndex: 80.47 },
-    { id: 7, name:"Spain", epiIndex: 79.09 },
-    { id: 8, name:"Austria", epiIndex: 78.32 },
-    { id: 9, name:"Sweden", epiIndex: 78.09 },
-    { id: 10, name:"Norway", epiIndex: 78.04 }
+    { id: 1, name:"Switzerland",  epiIndex: 87.57, temp: 85 },
+    { id: 2, name:"Luxembourg",   epiIndex: 83., temp: 90 },
+    { id: 5, name:"Czech-Republic", epiIndex: 81.47, temp: 95 },
+    { id: 6, name:"Germany", epiIndex: 80.47, temp: 35 },
+    { id: 7, name:"Spain", epiIndex: 79.09, temp: 75 },
+    { id: 8, name:"Austria", epiIndex: 78.32, temp: 105 },
+    { id: 9, name:"Sweden", epiIndex: 78.09, temp: 25 },
+    { id: 10, name:"Norway", epiIndex: 78.04, temp: 85 }
   ];
 
-  constructor(private userService: UserService) {
+  private scores : Array<Score> = [
+    { id: 1, name:"Switzerland",  score: 85 },
+    { id: 2, name:"Luxembourg", score: 90 },
+    { id: 5, name:"Czech-Republic", score: 95 },
+    { id: 6, name:"Germany", score: 35 },
+    { id: 7, name:"Spain", score: 75 },
+    { id: 8, name:"Austria", score: 105 },
+    { id: 9, name:"Sweden", score: 25 },
+    { id: 10, name:"Norway", score: 85 }
+  ];
+
+  constructor(private userService: UserService, private http: Http) {
   }
 
   createCountry(vm: Country) : Observable<any> {
@@ -53,5 +65,27 @@ export class AppDataService {
     return Observable.of(country).delay(2000);
     //return Observable.of({}).delay(2000).flatMap(x=>Observable.throw(''));
   }
+
+    getScores() : Observable<any> {
+    return Observable.of(this.scores);
+  }
+
+  getPosts(){
+        return this.http.get('https://jsonplaceholder.typicode.com/posts')
+            .map(res => res.json());
+    }
+  getAirportList() : Observable<any> {
+        var data =  this.http.get('http://localhost:4200/src/app/xml/AirportList.xml')        
+            .map(response => response.json);
+            //var xmlData = JSON.stringify({ data });
+            /*xml2js.parseString(data, ((result) => {
+              console.log(result);
+                return result;
+                }));*/
+
+            console.log(data);
+            return data;
+    }
+
   
 }

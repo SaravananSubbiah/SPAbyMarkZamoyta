@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 
 import { FrameworkConfigService, FrameworkConfigSettings } from '../fw/services/framework-config.service';
 import { MenuService } from '../fw/services/menu.service';
+import { LoggerService } from '../fw/services/logger.service';
 import { initialMenuItems } from './app.menu';
 
 @Component({
@@ -12,7 +13,8 @@ import { initialMenuItems } from './app.menu';
 export class AppComponent {
   
   constructor (private frameworkConfigService: FrameworkConfigService,
-               private menuService: MenuService) {
+               private menuService: MenuService,
+               private loggerService: LoggerService) {
 
     let config:FrameworkConfigSettings = {
       socialIcons: [
@@ -27,7 +29,7 @@ export class AppComponent {
     };
 
     frameworkConfigService.configure(config);
-
+    loggerService.log("I am kickedoff");
     menuService.items = initialMenuItems;
 
   }

@@ -21,6 +21,9 @@ import { RegisterUserComponent } from './users/register-user/register-user.compo
 import { DynamicFormComponent } from './dynamic-forms/dynamic-form/dynamic-form.component';
 import { DynamicFieldComponent } from './dynamic-forms/dynamic-field/dynamic-field.component';
 import { PanelComponent } from './panels/panel/panel.component';
+import { CarousalComponent } from './carousal/carousal.component';
+import { TempConvertPipe } from './pipes/temp-converter';
+import { LoggerService } from './services/logger.service';
 
 @NgModule({
   imports: [
@@ -44,17 +47,20 @@ import { PanelComponent } from './panels/panel/panel.component';
     RegisterUserComponent,
     DynamicFormComponent,
     DynamicFieldComponent,
-    PanelComponent
+    PanelComponent,
+    CarousalComponent
   ],
   providers: [
     FrameworkConfigService,
     ScreenService,
-    MenuService
+    MenuService,
+    LoggerService
   ],
   exports: [
     FrameworkBodyComponent,
     DynamicFormComponent,
     PanelComponent,
+    CarousalComponent,
     ScreenLarge,
     ScreenBelowLarge
   ]

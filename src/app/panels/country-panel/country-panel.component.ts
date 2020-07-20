@@ -2,6 +2,8 @@ import { Component, Input, OnInit } from '@angular/core';
 
 import { Country } from '../../view-models/Country';
 
+
+
 @Component({
   selector: 'app-country-panel',
   templateUrl: './country-panel.component.html',

@@ -55,7 +55,7 @@ export class CountryDetailComponent implements OnInit {
     this.operation = this.route.snapshot.params['operation'];
 
     if (this.operation === 'create') {
-      this.country = { id: 0, name: "", epiIndex: null };
+      this.country = { id: 0, name: "", epiIndex: null, temp: 0 };
     }
     else
       this.dataService.getCountry(this.route.snapshot.params['id'])
